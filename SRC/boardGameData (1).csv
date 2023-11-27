@@ -1,0 +1,401 @@
+boardGameID,ageRange,gameName,players,category
+BG1,3,Uno,4,boardGame
+BG2,30,Boggle: Slam,20,boardGame
+BG3,22,Chess,6,boardGame
+BG4,3,Jaipur: New,19,boardGame
+BG5,10,Clank: Expeditions,15,boardGame
+BG6,72,Tigris,9,boardGame
+BG7,61,Carc: Winter,1,boardGame
+BG8,90,Ludo,16,boardGame
+BG9,12,Clank,4,boardGame
+BG10,32,Uno Dare: Remix,19,boardGame
+BG11,82,Clank: Expeditions,3,boardGame
+BG12,86,Ticket: Eur,3,boardGame
+BG13,74,Hive: Pillbug,20,boardGame
+BG14,22,Scrab: Slam,2,boardGame
+BG15,25,Othello,16,boardGame
+BG16,36,Uno: Splash,8,boardGame
+BG17,95,Dixit: Mirrors,8,boardGame
+BG18,42,Chess: Pro,12,boardGame
+BG19,12,SushiGo: Soy,17,boardGame
+BG20,8,Carc: Winter,8,boardGame
+BG21,13,Rummikub: Deluxe,1,boardGame
+BG22,56,Monop: Deal,17,boardGame
+BG23,91,Pand: Legacy,10,boardGame
+BG24,37,Risk: Star,16,boardGame
+BG25,47,Fox: In the Forest,4,boardGame
+BG26,26,Azul: Crystal,20,boardGame
+BG27,57,Chess: Tactics,9,boardGame
+BG28,29,Coup: Reformation,15,boardGame
+BG29,86,Ticket: Japan,18,boardGame
+BG30,3,Catan,7,boardGame
+BG31,90,Ticket: Eur,11,boardGame
+BG32,31,Boggle: Slam,1,boardGame
+BG33,89,Carc: T&B,9,boardGame
+BG34,9,Boggle: Big,19,boardGame
+BG35,37,Chess: Pro,10,boardGame
+BG36,43,Dixit: Mirrors,9,boardGame
+BG37,66,Xiangqi,4,boardGame
+BG38,38,Dominion: Dark Ages,5,boardGame
+BG39,10,Hive: Pocket,16,boardGame
+BG40,14,Carrom: Ring,9,boardGame
+BG41,100,Splendor: Cities,7,boardGame
+BG42,5,Carrom,14,boardGame
+BG43,77,Carc,4,boardGame
+BG44,2,Rummikub: XXL,5,boardGame
+BG45,1,Uno: Remix,3,boardGame
+BG46,77,Qwirkle: Travel,1,boardGame
+BG47,37,Power Grid: Plants,8,boardGame
+BG48,24,Pandemic: Rapid Response,5,boardGame
+BG49,25,Battleship: Shots,2,boardGame
+BG50,82,Power Grid: Robots.,11,boardGame
+BG51,14,Chess,7,boardGame
+BG52,40,Anomia,8,boardGame
+BG53,71,Clank: Expeditions,10,boardGame
+BG54,54,Hanabi,8,boardGame
+BG55,5,Dixit: Mirrors,16,boardGame
+BG56,31,Arboretum,6,boardGame
+BG57,76,Gloom,14,boardGame
+BG58,51,Tsuro: Phoenix Rising,2,boardGame
+BG59,26,Clank: Sunken,5,boardGame
+BG60,48,Chess,13,boardGame
+BG61,58,Poker,9,boardGame
+BG62,48,Tsuro,11,boardGame
+BG63,54,Carc: The Dice Game,5,boardGame
+BG64,59,Dominion: Nocturne,13,boardGame
+BG65,30,Anomia,15,boardGame
+BG66,62,Labyrinth: Junior,15,boardGame
+BG67,95,Sequence,1,boardGame
+BG68,2,Ticket: Eur,17,boardGame
+BG69,39,Coup: Reformation,9,boardGame
+BG70,51,Qwirkle: Cubes,12,boardGame
+BG71,62,Rummikub: Twist,19,boardGame
+BG72,49,Rummikub,18,boardGame
+BG73,90,Connect4,10,boardGame
+BG74,100,Ghost: Castle,13,boardGame
+BG75,12,Machi Koro: Legacy,19,boardGame
+BG76,80,Pandemic: Rapid Response,3,boardGame
+BG77,68,Chess,19,boardGame
+BG78,20,Catan,5,boardGame
+BG79,31,Boggle: Big,8,boardGame
+BG80,58,Clue,1,boardGame
+BG81,67,Qwixx: Big Points,11,boardGame
+BG82,93,Coup: Reformation,6,boardGame
+BG83,62,Scrab,18,boardGame
+BG84,20,Coup: Reformation,9,boardGame
+BG85,72,Carc: I&C,3,boardGame
+BG86,64,TTR: Africa,9,boardGame
+BG87,2,Clank,13,boardGame
+BG88,17,Oink: Deep Sea Adventure,3,boardGame
+BG89,31,Coup: Rebellion,10,boardGame
+BG90,27,Rummikub: Twist,6,boardGame
+BG91,73,Go,19,boardGame
+BG92,38,Rummikub: XXL,13,boardGame
+BG93,91,SushiGo,14,boardGame
+BG94,63,Uno,12,boardGame
+BG95,64,Splendor,6,boardGame
+BG96,76,Sequence,1,boardGame
+BG97,84,Hive: Pillbug,10,boardGame
+BG98,39,Hive: Pillbug,19,boardGame
+BG99,24,Sequence: States,5,boardGame
+BG100,88,RiskL,2,boardGame
+BG101,94,Power Grid,7,boardGame
+BG102,10,Pict,15,boardGame
+BG103,70,Qwirkle: Cubes,16,boardGame
+BG104,3,Risk: Star,8,boardGame
+BG105,38,Coup: Guatemala,20,boardGame
+BG106,93,SushiGo: Soy,13,boardGame
+BG107,100,Carrom,10,boardGame
+BG108,74,Boggle,7,boardGame
+BG109,95,Dixit: Revelations,10,boardGame
+BG110,99,Qwirkle: Cubes,2,boardGame
+BG111,33,Tsuro: Phoenix Rising,5,boardGame
+BG112,80,Le Havre,1,boardGame
+BG113,1,Qwixx: Big Points,8,boardGame
+BG114,38,Gloom: Unhappy,13,boardGame
+BG115,79,Hanabi,10,boardGame
+BG116,93,Uno: Flip,18,boardGame
+BG117,43,Hive: Pocket,7,boardGame
+BG118,47,Clank: Expeditions,11,boardGame
+BG119,88,Pand,16,boardGame
+BG120,85,Ghost: Party,2,boardGame
+BG121,68,Pand: Legacy,17,boardGame
+BG122,91,Chess: Pro,6,boardGame
+BG123,54,Monop: Deal,15,boardGame
+BG124,75,Tigris,20,boardGame
+BG125,29,Gloom: Unhappy,11,boardGame
+BG126,64,Uno Flip,7,boardGame
+BG127,7,Splendor: Marvelous,12,boardGame
+BG128,14,Poker: Texas,5,boardGame
+BG129,40,Othello,11,boardGame
+BG130,13,Fox: In the Forest,2,boardGame
+BG131,16,Rummikub: Word,3,boardGame
+BG132,97,Inis,1,boardGame
+BG133,99,Splendor: Marvel,15,boardGame
+BG134,75,Scrab: Slam,12,boardGame
+BG135,55,Jaipur: New,19,boardGame
+BG136,61,Pandemic: Contagion,18,boardGame
+BG137,39,Risk,4,boardGame
+BG138,13,Ludo,18,boardGame
+BG139,20,TTR: Africa,17,boardGame
+BG140,69,Codenames,13,boardGame
+BG141,19,Catan: Starfarers,7,boardGame
+BG142,82,Boggle,19,boardGame
+BG143,28,Sequence: Numbers,2,boardGame
+BG144,84,Tsuro,10,boardGame
+BG145,26,Ghost: Haunted,6,boardGame
+BG146,45,Splendor: Marvel,14,boardGame
+BG147,79,Carc: The Dice Game,20,boardGame
+BG148,64,Pand: Legacy,5,boardGame
+BG149,9,Fox,11,boardGame
+BG150,15,Skull: Roses,17,boardGame
+BG151,77,Uno: Splash,15,boardGame
+BG152,26,Azul: Crystal,12,boardGame
+BG153,82,Qwirkle: Travel,17,boardGame
+BG154,43,Coup: Guatemala,12,boardGame
+BG155,75,Tsuro: Phoenix,16,boardGame
+BG156,25,Carc: Amazonas,17,boardGame
+BG157,33,Dominion,3,boardGame
+BG158,18,Chess: Tactics,16,boardGame
+BG159,42,Sequence: Numbers,14,boardGame
+BG160,75,Sequence: States,6,boardGame
+BG161,62,Santorini,20,boardGame
+BG162,61,Rokoko,9,boardGame
+BG163,10,Sorry,4,boardGame
+BG164,69,Dominion: Nocturne,13,boardGame
+BG165,54,Coup: Rebellion,17,boardGame
+BG166,35,Ghost: Haunted,2,boardGame
+BG167,79,Ghost: Party,9,boardGame
+BG168,95,Hive: Pillbug,8,boardGame
+BG169,59,Boggle: Slam,11,boardGame
+BG170,61,Risk,17,boardGame
+BG171,4,Splendor: Marvelous,20,boardGame
+BG172,91,Tsuro: Phoenix,8,boardGame
+BG173,97,Clank: Expeditions,4,boardGame
+BG174,90,Jaipur: New Edition,4,boardGame
+BG175,32,Carrom: Ring,7,boardGame
+BG176,78,Qwirkle: Cubes,16,boardGame
+BG177,7,Risk,1,boardGame
+BG178,41,Rummikub: XXL,3,boardGame
+BG179,36,Oink,13,boardGame
+BG180,36,Mancala,13,boardGame
+BG181,19,Azul: Crystal,7,boardGame
+BG182,43,Clank: Expeditions,6,boardGame
+BG183,1,Bohnanza: Duel,5,boardGame
+BG184,93,Othello,17,boardGame
+BG185,18,Dominion: Empires,16,boardGame
+BG186,52,Clue,17,boardGame
+BG187,93,Azul: Stained,4,boardGame
+BG188,53,SushiGo,10,boardGame
+BG189,50,Chess: 960,8,boardGame
+BG190,82,Azul: Stained,20,boardGame
+BG191,24,Ticket: Eur,14,boardGame
+BG192,49,Dominion: Dark Ages,16,boardGame
+BG193,58,Arboretum,1,boardGame
+BG194,33,Catan,8,boardGame
+BG195,1,Uno: Remix,15,boardGame
+BG196,64,Qwirkle,10,boardGame
+BG197,14,Dixit,10,boardGame
+BG198,6,Azul: Crystal,20,boardGame
+BG199,49,Carrom,6,boardGame
+BG200,68,Qwirkle: Cubes,8,boardGame
+BG201,16,Scrab: Slam,2,boardGame
+BG202,16,Gloom,10,boardGame
+BG203,10,Love Letter: Batman,10,boardGame
+BG204,71,Dixit: Revelations,17,boardGame
+BG205,44,Sequence: States,14,boardGame
+BG206,17,Clank: Expeditions,13,boardGame
+BG207,99,Chess: Tactics,15,boardGame
+BG208,82,Carrom,9,boardGame
+BG209,7,Camel Up,19,boardGame
+BG210,81,Catan: Starfarers,7,boardGame
+BG211,85,Boggle: Slam,14,boardGame
+BG212,86,Dominion,13,boardGame
+BG213,31,Battleship,6,boardGame
+BG214,86,Le Havre: The Harbor,7,boardGame
+BG215,82,Santorini: New,16,boardGame
+BG216,34,Hive: Pillbug,17,boardGame
+BG217,29,Le Havre: The Inland Port,13,boardGame
+BG218,2,Dixit,4,boardGame
+BG219,5,Coup: Rebellion,13,boardGame
+BG220,75,Power Grid: Plants,11,boardGame
+BG221,96,Azul: Stained,5,boardGame
+BG222,67,Skull: Roses,17,boardGame
+BG223,14,Tsuro: Phoenix,8,boardGame
+BG224,23,Catan: Dice,17,boardGame
+BG225,22,Clue,10,boardGame
+BG226,38,Tsuro: Phoenix,15,boardGame
+BG227,93,Carc: Safari,4,boardGame
+BG228,66,Chess: 960,11,boardGame
+BG229,12,Carc: I&C,20,boardGame
+BG230,6,Pandemic: Rapid Response,4,boardGame
+BG231,87,Boggle: Big,4,boardGame
+BG232,63,Codenames: Duet,19,boardGame
+BG233,67,Stratego,11,boardGame
+BG234,87,Jaipur,17,boardGame
+BG235,45,Power Grid: Robots,19,boardGame
+BG236,23,Bohnanza,13,boardGame
+BG237,89,Clank,20,boardGame
+BG238,79,Le Havre,17,boardGame
+BG239,11,Rokoko,6,boardGame
+BG240,62,Monop: Deal,10,boardGame
+BG241,49,Coup: Reformation,13,boardGame
+BG242,87,Hive: Pillbug,20,boardGame
+BG243,7,Tigris,16,boardGame
+BG244,66,Go: 9x9,5,boardGame
+BG245,18,Carc: T&B,17,boardGame
+BG246,48,RiskL,10,boardGame
+BG247,95,Clank: Expeditions,14,boardGame
+BG248,52,Ghost: Haunted,20,boardGame
+BG249,61,Anomia,6,boardGame
+BG250,78,SushiGo: Roll,15,boardGame
+BG251,11,Jaipur: Collectors,1,boardGame
+BG252,64,Carc: I&C,17,boardGame
+BG253,54,Catan: Cities,12,boardGame
+BG254,91,Coup: Rebellion,13,boardGame
+BG255,79,Rummikub: XXL,13,boardGame
+BG256,82,Sequence,1,boardGame
+BG257,83,Mancala: Kalah,1,boardGame
+BG258,85,Fox,8,boardGame
+BG259,44,Skull: Roses,11,boardGame
+BG260,22,Bohnanza: Duel,7,boardGame
+BG261,40,Connect4,1,boardGame
+BG262,52,Othello,7,boardGame
+BG263,6,Ghost: Party,5,boardGame
+BG264,23,SushiGo: Roll,12,boardGame
+BG265,33,SushiGo,17,boardGame
+BG266,80,Dixit: Revelations,19,boardGame
+BG267,13,Hive,9,boardGame
+BG268,46,Azul: Crystal,6,boardGame
+BG269,83,Pict,17,boardGame
+BG270,9,Uno: Attack,14,boardGame
+BG271,6,SushiGo: Party,17,boardGame
+BG272,59,Dominion: Nocturne,11,boardGame
+BG273,3,Qwixx: Big Points,10,boardGame
+BG274,43,Sequence,17,boardGame
+BG275,3,Clank,6,boardGame
+BG276,84,Qwirkle: Cubes,18,boardGame
+BG277,21,Dominion: Nocturne,18,boardGame
+BG278,9,Clank: Expeditions,10,boardGame
+BG279,99,Ticket: India,9,boardGame
+BG280,42,Poker,13,boardGame
+BG281,88,Carc: I&C,17,boardGame
+BG282,63,Coup: Rebellion,19,boardGame
+BG283,50,Catan,5,boardGame
+BG284,54,Qwirkle: Travel,1,boardGame
+BG285,82,Power Grid: Robots,14,boardGame
+BG286,18,Mancala: Kalah,8,boardGame
+BG287,1,Dominion,5,boardGame
+BG288,46,Dixit: Revelations,4,boardGame
+BG289,36,Pict,15,boardGame
+BG290,80,Sequence: States,4,boardGame
+BG291,23,Codenames: Duet,4,boardGame
+BG292,93,Mancala: Kalah,3,boardGame
+BG293,66,Carc,17,boardGame
+BG294,44,Uno Flip,11,boardGame
+BG295,11,Fox: In the Forest,12,boardGame
+BG296,1,Inis,11,boardGame
+BG297,10,Splendor: Cities,17,boardGame
+BG298,70,Dominion: Nocturne,15,boardGame
+BG299,30,Ghost,6,boardGame
+BG300,46,Mancala: Kalah,20,boardGame
+BG301,25,Power Grid: Robots.,13,boardGame
+BG302,62,Camel Up,20,boardGame
+BG303,47,Tsuro: Phoenix Rising,16,boardGame
+BG304,75,Chess: Pro,3,boardGame
+BG305,62,Poker: Texas,2,boardGame
+BG306,72,Connect4,17,boardGame
+BG307,51,Carrom: Disc,16,boardGame
+BG308,39,Hive: Pillbug,16,boardGame
+BG309,47,Uno: Remix,8,boardGame
+BG310,81,Go,19,boardGame
+BG311,1,Carc: I&C,2,boardGame
+BG312,97,Go: 9x9,6,boardGame
+BG313,5,Chess: Pro,11,boardGame
+BG314,49,Checkers,12,boardGame
+BG315,54,RiskL,20,boardGame
+BG316,62,Splendor: Marvel,2,boardGame
+BG317,66,Qwirkle: Cubes,16,boardGame
+BG318,53,Fox: In the Forest,10,boardGame
+BG319,53,Catan: Dice,19,boardGame
+BG320,96,Bohnanza,13,boardGame
+BG321,43,Oink: Deep Sea Adventure,6,boardGame
+BG322,54,Mancala: Kalah,15,boardGame
+BG323,97,Rummikub: Deluxe,10,boardGame
+BG324,90,Carc: T&B,3,boardGame
+BG325,78,Labyrinth: Junior,4,boardGame
+BG326,36,Labyrinth,9,boardGame
+BG327,50,Hive: Carbon,20,boardGame
+BG328,91,Hive,4,boardGame
+BG329,68,Dominion: Dark Ages,13,boardGame
+BG330,38,Pand: Legacy,19,boardGame
+BG331,34,Stratego,2,boardGame
+BG332,8,Uno: Remix,1,boardGame
+BG333,31,Poker,19,boardGame
+BG334,10,Coup: Rebellion,10,boardGame
+BG335,34,Qwixx: Big Points,3,boardGame
+BG336,40,Sequence: Numbers,3,boardGame
+BG337,66,Clank: Sunken,14,boardGame
+BG338,32,Qwirkle: Travel,10,boardGame
+BG339,8,Sorry,10,boardGame
+BG340,88,Dominion,13,boardGame
+BG341,60,Pandemic: Rapid Response,17,boardGame
+BG342,98,Ghost,1,boardGame
+BG343,77,Boggle,15,boardGame
+BG344,59,Stratego: Waterloo,5,boardGame
+BG345,85,Power Grid: Plants,18,boardGame
+BG346,70,Poker,12,boardGame
+BG347,76,Gloom: Unhappy,8,boardGame
+BG348,78,Chess: Pro,20,boardGame
+BG349,1,Santorini,19,boardGame
+BG350,43,Uno Dare: Remix,20,boardGame
+BG351,40,Clank: Sunken,15,boardGame
+BG352,67,Gloom,5,boardGame
+BG353,5,Anomia: Party,8,boardGame
+BG354,47,Stratego,10,boardGame
+BG355,42,Azul: Crystal,19,boardGame
+BG356,98,TTR,12,boardGame
+BG357,40,Qwirkle: Cubes,10,boardGame
+BG358,52,Dixit,2,boardGame
+BG359,20,Azul,19,boardGame
+BG360,61,Skull: Roses,12,boardGame
+BG361,12,Uno: Dare,20,boardGame
+BG362,43,Chess: 960,6,boardGame
+BG363,93,Carc: I&C,20,boardGame
+BG364,66,Xiangqi,16,boardGame
+BG365,76,Scrab: Slam,14,boardGame
+BG366,71,Clank: Expeditions,6,boardGame
+BG367,38,Codenames: Duet,1,boardGame
+BG368,84,Skull: Roses,12,boardGame
+BG369,36,Coup: Guatemala,13,boardGame
+BG370,14,Splendor: Marvel,5,boardGame
+BG371,94,Power Grid,18,boardGame
+BG372,4,SushiGo: Soy,12,boardGame
+BG373,59,Hive: Pillbug,19,boardGame
+BG374,12,Sorry,11,boardGame
+BG375,1,Power Grid: Plants,20,boardGame
+BG376,53,Rokoko: Jewelry,16,boardGame
+BG377,99,Boggle: Big,9,boardGame
+BG378,97,Carrom: Ring,6,boardGame
+BG379,52,Pandemic: Contagion,8,boardGame
+BG380,16,Go,14,boardGame
+BG381,51,Carc: Winter,1,boardGame
+BG382,29,Pict,11,boardGame
+BG383,10,Le Havre,3,boardGame
+BG384,34,Sequence: States,20,boardGame
+BG385,6,Jaipur: Collectors,11,boardGame
+BG386,48,Azul: Stained,10,boardGame
+BG387,47,Coup: Rebellion,13,boardGame
+BG388,71,Love Letter: Batman,4,boardGame
+BG389,33,Uno Flip: Double,18,boardGame
+BG390,51,Catan: Starfarers,12,boardGame
+BG391,8,Hive,12,boardGame
+BG392,15,Uno: Remix,18,boardGame
+BG393,37,Le Havre,12,boardGame
+BG394,88,Jaipur: New,7,boardGame
+BG395,31,Bohnanza: Duel,13,boardGame
+BG396,23,Connect4,16,boardGame
+BG397,98,Power Grid,18,boardGame
+BG398,98,Jaipur: Collectors,16,boardGame
+BG399,99,Skull,15,boardGame
+BG400.,75,Clank: Expeditions,13,boardGame

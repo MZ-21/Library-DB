@@ -1,0 +1,101 @@
+computerID,computerName,timeLimit,availability,condition
+C1,intel,35,1,needs repair
+C2,intel,48,1,bad
+C3,microsoft,34,0,needs repair
+C4,dell,54,0,needs repair
+C5,apple,40,0,needs repair
+C6,intel,23,1,needs repair
+C7,intel,34,0,needs repair
+C8,apple,18,0,ok
+C9,apple,41,1,bad
+C10,dell,56,1,bad
+C11,windows,31,0,needs repair
+C12,linux,42,0,needs repair
+C13,microsoft,20,1,bad
+C14,microsoft,24,1,bad
+C15,windows,53,0,bad
+C16,linux,51,1,needs repair
+C17,linux,54,0,needs repair
+C18,apple,33,0,good
+C19,linux,56,0,good
+C20,apple,38,1,ok
+C21,windows,55,1,ok
+C22,apple,18,1,needs repair
+C23,windows,25,0,bad
+C24,linux,37,1,bad
+C25,microsoft,10,1,bad
+C26,linux,35,0,ok
+C27,linux,52,1,good
+C28,linux,46,0,good
+C29,intel,20,1,bad
+C30,intel,21,1,needs repair
+C31,windows,37,0,ok
+C32,intel,58,0,ok
+C33,dell,59,0,bad
+C34,windows,60,1,ok
+C35,windows,28,1,needs repair
+C36,linux,26,1,needs repair
+C37,linux,52,0,ok
+C38,windows,32,0,needs repair
+C39,microsoft,14,1,needs repair
+C40,linux,22,1,bad
+C41,dell,58,0,needs repair
+C42,microsoft,28,1,bad
+C43,dell,34,1,ok
+C44,intel,58,1,ok
+C45,dell,38,0,ok
+C46,linux,55,0,bad
+C47,intel,49,0,needs repair
+C48,apple,10,0,ok
+C49,dell,38,1,needs repair
+C50,microsoft,52,1,good
+C51,microsoft,54,0,good
+C52,linux,12,1,bad
+C53,windows,30,0,good
+C54,microsoft,24,1,good
+C55,linux,42,0,ok
+C56,dell,13,1,needs repair
+C57,intel,38,1,good
+C58,microsoft,39,1,good
+C59,microsoft,45,0,bad
+C60,microsoft,11,1,bad
+C61,intel,34,1,bad
+C62,intel,42,0,bad
+C63,linux,11,1,good
+C64,linux,35,1,needs repair
+C65,windows,43,1,bad
+C66,microsoft,50,0,bad
+C67,windows,23,1,good
+C68,dell,43,0,good
+C69,microsoft,19,0,needs repair
+C70,dell,14,0,needs repair
+C71,dell,12,1,bad
+C72,apple,45,1,needs repair
+C73,linux,11,1,needs repair
+C74,intel,32,0,ok
+C75,microsoft,38,1,good
+C76,windows,54,1,ok
+C77,linux,24,0,ok
+C78,apple,12,0,needs repair
+C79,linux,37,0,needs repair
+C80,microsoft,16,0,needs repair
+C81,apple,31,0,needs repair
+C82,windows,32,0,bad
+C83,intel,34,1,ok
+C84,dell,31,0,bad
+C85,microsoft,20,1,needs repair
+C86,apple,45,1,needs repair
+C87,intel,11,0,needs repair
+C88,linux,50,0,good
+C89,intel,15,0,bad
+C90,intel,20,0,ok
+C91,dell,50,1,needs repair
+C92,apple,35,0,needs repair
+C93,dell,17,1,bad
+C94,apple,23,0,good
+C95,windows,13,1,needs repair
+C96,intel,35,0,bad
+C97,microsoft,31,1,needs repair
+C98,intel,44,0,ok
+C99,apple,13,0,needs repair
+C100,dell,25,1,bad

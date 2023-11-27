@@ -1,0 +1,401 @@
+movieId,movieName,genre,movieDescription,movieDirector,movieRating,mainActor,duration,category
+1M,The Shawshank Redemption,Drama,Two imprisoned men find redemption,Frank Darabont,5,Tim Robbins,3,movie
+2M,The Godfather,Crime,The Godfather transfers power,Francis Ford Coppola,5,Marlon Brando,1,movie
+3M,The Dark Knight,Drama,The Joker wreaks havoc in Gotham,Christopher Nolan,3,Heath Ledger,3,movie
+4M,Inception,Action,A thief plants an idea through dreams,Christopher Nolan,5,Leonardo DiCaprio,2,movie
+5M,Schindler's List,Drama,Schindler's List during WWII,Steven Spielberg,3,Liam Neeson,3,movie
+6M,Pulp Fiction,Crime,Lives intertwine in tales of redemption,Quentin Tarantino,2,John Travolta,2,movie
+7M,Fight Club,Drama,Fight Club evolves into more,David Fincher,4,Brad Pitt,1,movie
+8M,Forrest Gump,Drama,Historical events unfold in Alabama,Robert Zemeckis,3,Tom Hanks,1,movie
+9M,The Matrix,Action,A hacker learns the truth about reality,The Wachowskis,2,Keanu Reeves,0.5,movie
+10M,The Lord of the Rings: The Return of the King,Adventure,Gandalf leads against Sauron's army,Peter Jackson,2,Elijah Wood,2,movie
+11M,The Godfather: Part II,Crime,Vito Corleone's early life is portrayed,Francis Ford Coppola,4,Al Pacino,1,movie
+12M,The Silence of the Lambs,Drama,An F.B.I. cadet seeks a cannibal's help,Jonathan Demme,1,Jodie Foster,2.5,movie
+13M,The Usual Suspects,Thriller,A sole survivor recounts a boat gunfight,Bryan Singer,3,Kevin Spacey,0.5,movie
+14M,Se7en,Crime,A detective navigates military corruption,David Fincher,5,Morgan Freeman,0.5,movie
+15M,The Lion King,Mystery,Simba learns responsibility and bravery,Rob Minkoff and Roger Allers,2,Matthew Broderick,0.5,movie
+16M,The Terminator,Animation,A soldier is sent to stop a cyborg,James Cameron,3,Arnold Schwarzenegger,2,movie
+17M,The Empire Strikes Back,Action,Rebels battle the Empire on Hoth,George Lucas,3,Mark Hamill,3,movie
+18M,The Shawshank Redemption,Adventure,Luke Skywalker trains with Yoda,Martin Scorsese,3,Martin Freeman,2.5,movie
+19M,The Godfather,Drama,The Shawshank Redemption is a classic tale,Steven Spielberg,2,Tim Robbins,0.5,movie
+20M,The Dark Knight,Crime,The Godfather: Part II continues the saga,Christopher Nolan,5,Marlon Brando,1.5,movie
+21M,Inception,Drama,The Dark Knight brings chaos to Gotham,David Fincher,5,Heath Ledger,2,movie
+22M,Schindler's List,Action,Inception delves into dream manipulation,Quentin Tarantino,5,Leonardo DiCaprio,3,movie
+23M,Pulp Fiction,Drama,Schindler's List depicts heroism in WWII,Robert Zemeckis,3,Liam Neeson,1.5,movie
+24M,Fight Club,Crime,Pulp Fiction weaves interconnected stories,The Wachowskis,5,John Travolta,3,movie
+25M,Forrest Gump,Drama,Fight Club explores identity and rebellion,Peter Jackson,4,Brad Pitt,2.5,movie
+26M,The Matrix,Drama,Forrest Gump witnesses historic events,Francis Ford Coppola,4,Tom Hanks,1.5,movie
+27M,The Lord of the Rings: The Return of the King,Action,The Matrix challenges reality and perception,Jonathan Demme,4,Keanu Reeves,2.5,movie
+28M,The Godfather: Part II,Adventure,The Return of the King concludes the epic,Bryan Singer,5,Elijah Wood,0.5,movie
+29M,The Silence of the Lambs,Crime,The Godfather: Part II delves into history,David Fincher,5,Al Pacino,2.5,movie
+30M,The Usual Suspects,Drama,The Silence of the Lambs is psychological,Rob Minkoff and Roger Allers,5,Jodie Foster,3,movie
+31M,Se7en,Thriller,The Usual Suspects unfolds a mystery,James Cameron,4,Kevin Spacey,1.5,movie
+32M,The Lion King,Crime,Se7en explores the dark side,George Lucas,3,Morgan Freeman,1,movie
+33M,The Terminator,Mystery,The Lion King is an animated masterpiece,Francis Ford Coppola,5,Matthew Broderick,1,movie
+34M,The Empire Strikes Back,Animation,The Terminator heralds a sci-fi franchise,Christopher Nolan,3,Arnold Schwarzenegger,3,movie
+35M,The Shawshank Redemption,Action,The Empire Strikes Back intensifies the saga,Christopher Nolan,3,Mark Hamill,2,movie
+36M,The Godfather,Adventure,The Shawshank Redemption tells a powerful story,Steven Spielberg,5,Martin Freeman,3,movie
+37M,The Dark Knight,Drama,The Godfather continues its iconic narrative,Quentin Tarantino,2,Tim Robbins,2.5,movie
+38M,Inception,Crime,The Dark Knight rises with intensity,David Fincher,1,Marlon Brando,2.5,movie
+39M,Schindler's List,Drama,Inception explores the power of dreams,Robert Zemeckis,3,Heath Ledger,2,movie
+40M,Pulp Fiction,Action,Schindler's List is a poignant historical drama,The Wachowskis,1,Leonardo DiCaprio,0.5,movie
+41M,Fight Club,Drama,Pulp Fiction captivates with nonlinear storytelling,Peter Jackson,4,Liam Neeson,3,movie
+42M,Forrest Gump,Crime,Fight Club delves into underground subcultures,Francis Ford Coppola,2,John Travolta,2,movie
+43M,The Matrix,Drama,Forrest Gump charms with a unique perspective,Jonathan Demme,1,Brad Pitt,2,movie
+44M,The Lord of the Rings: The Return of the King,Drama,The Matrix revolutionizes visual effects,Bryan Singer,3,Tom Hanks,3,movie
+45M,The Godfather: Part II,Action,The Return of the King triumphs in fantasy,David Fincher,4,Keanu Reeves,2.5,movie
+46M,The Silence of the Lambs,Adventure,The Godfather: Part II expands the legacy,Rob Minkoff and Roger Allers,3,Elijah Wood,1.5,movie
+47M,The Usual Suspects,Crime,The Silence of the Lambs is a gripping thriller,James Cameron,4,Al Pacino,1,movie
+48M,Se7en,Drama,The Usual Suspects delivers a mind-bending twist,George Lucas,2,Jodie Foster,2.5,movie
+49M,The Lion King,Thriller,Se7en shocks with its dark narrative,Christopher Nolan,1,Kevin Spacey,2,movie
+50M,The Terminator,Crime,The Lion King remains a beloved classic,Steven Spielberg,2,Morgan Freeman,1,movie
+51M,The Empire Strikes Back,Mystery,The Terminator introduces a relentless foe,Quentin Tarantino,2,Matthew Broderick,0.5,movie
+52M,The Shawshank Redemption,Animation,The Empire Strikes Back deepens the Star Wars saga,David Fincher,5,Arnold Schwarzenegger,0.5,movie
+53M,The Godfather,Action,The Shawshank Redemption inspires with hope,Robert Zemeckis,1,Mark Hamill,1.5,movie
+54M,The Dark Knight,Adventure,The Godfather: Part II continues its epic journey,The Wachowskis,5,Martin Freeman,2,movie
+55M,Inception,Drama,The Dark Knight mesmerizes with Heath Ledger's performance,Peter Jackson,3,Tim Robbins,1.5,movie
+56M,Schindler's List,Crime,Inception challenges the boundaries of reality,Francis Ford Coppola,3,Marlon Brando,1,movie
+57M,Pulp Fiction,Drama,Schindler's List portrays the heroism of an unlikely savior,Jonathan Demme,2,Heath Ledger,0.5,movie
+58M,Fight Club,Action,Pulp Fiction weaves together disparate stories,Bryan Singer,1,Leonardo DiCaprio,1,movie
+59M,Forrest Gump,Drama,Fight Club explores the disillusionment of modern society,David Fincher,2,Liam Neeson,2,movie
+60M,The Matrix,Crime,Forrest Gump navigates through decades of American history,Rob Minkoff and Roger Allers,3,John Travolta,3,movie
+61M,The Lord of the Rings: The Return of the King,Drama,The Matrix introduces a new era of filmmaking,James Cameron,2,Brad Pitt,3,movie
+62M,The Godfather: Part II,Drama,The Return of the King concludes the epic Middle-earth saga,George Lucas,5,Tom Hanks,0.5,movie
+63M,The Silence of the Lambs,Action,The Godfather: Part II provides a rich tapestry of crime and family,Steven Spielberg,3,Keanu Reeves,1,movie
+64M,The Usual Suspects,Adventure,The Silence of the Lambs terrifies with its psychological intensity,Quentin Tarantino,2,Elijah Wood,3,movie
+65M,Se7en,Crime,The Usual Suspects keeps audiences guessing until the end,David Fincher,5,Al Pacino,2.5,movie
+66M,The Lion King,Drama,Se7en immerses viewers in a dark and twisted investigation,Robert Zemeckis,4,Jodie Foster,1,movie
+67M,The Terminator,Thriller,The Lion King captures hearts with its timeless animation,The Wachowskis,3,Kevin Spacey,0.5,movie
+68M,The Empire Strikes Back,Crime,The Terminator sets the stage for a sci-fi franchise,Peter Jackson,4,Morgan Freeman,1,movie
+69M,The Shawshank Redemption,Mystery,The Empire Strikes Back raises the stakes in the Star Wars saga,Francis Ford Coppola,1,Matthew Broderick,1,movie
+70M,The Godfather,Animation,The Shawshank Redemption offers a tale of resilience and redemption,Jonathan Demme,5,Arnold Schwarzenegger,1,movie
+71M,The Dark Knight,Action,The Godfather: Part II expands the narrative with dual timelines,Bryan Singer,3,Mark Hamill,0.5,movie
+72M,Inception,Adventure,The Dark Knight leaves an indelible mark on superhero cinema,David Fincher,5,Martin Freeman,2,movie
+73M,Schindler's List,Drama,Inception bends the rules of reality with mind-bending concepts,Rob Minkoff and Roger Allers,3,Tim Robbins,1.5,movie
+74M,Pulp Fiction,Crime,Schindler's List commemorates acts of compassion during the Holocaust,James Cameron,1,Marlon Brando,0.5,movie
+75M,Fight Club,Drama,Pulp Fiction breaks cinematic conventions with its nonlinear storytelling,George Lucas,5,Heath Ledger,2,movie
+76M,Forrest Gump,Action,Fight Club critiques societal norms through an underground subculture,Quentin Tarantino,3,Leonardo DiCaprio,3,movie
+77M,The Matrix,Drama,Forrest Gump weaves a heartwarming and epic journey through history,David Fincher,3,Liam Neeson,2,movie
+78M,The Lord of the Rings: The Return of the King,Crime,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,Robert Zemeckis,1,John Travolta,2.5,movie
+79M,The Godfather: Part II,Drama,The Return of the King delivers a triumphant conclusion to the Lord of the Rings trilogy,The Wachowskis,5,Brad Pitt,2,movie
+80M,The Silence of the Lambs,Drama,The Godfather: Part II deepens the exploration of power,Peter Jackson,2,Tom Hanks,0.5,movie
+81M,The Usual Suspects,Action,family,Francis Ford Coppola,5,Keanu Reeves,1.5,movie
+82M,Se7en,Adventure,and legacy,Jonathan Demme,4,Elijah Wood,0.5,movie
+83M,The Lion King,Crime,The Silence of the Lambs sets a benchmark for psychological thrillers,Bryan Singer,5,Al Pacino,1.5,movie
+84M,The Terminator,Drama,The Usual Suspects keeps audiences on the edge of their seats with its intricate plot,David Fincher,4,Jodie Foster,1,movie
+85M,The Empire Strikes Back,Thriller,Se7en immerses viewers in a dark and suspenseful investigation,Rob Minkoff and Roger Allers,5,Kevin Spacey,3,movie
+86M,The Shawshank Redemption,Crime,The Lion King enchants audiences with its timeless animation and unforgettable music,James Cameron,2,Morgan Freeman,2.5,movie
+87M,The Godfather,Mystery,The Terminator lays the foundation for a iconic sci-fi franchise,George Lucas,3,Matthew Broderick,0.5,movie
+88M,The Dark Knight,Animation,The Empire Strikes Back raises the stakes in the Star Wars saga,David Fincher,5,Arnold Schwarzenegger,2,movie
+89M,Inception,Action,The Shawshank Redemption resonates with its tale of hope and redemption,Robert Zemeckis,5,Mark Hamill,2.5,movie
+90M,Schindler's List,Adventure,The Godfather: Part II weaves a complex narrative of crime,The Wachowskis,3,Martin Freeman,2.5,movie
+91M,Pulp Fiction,Drama,power,Peter Jackson,1,Tim Robbins,1,movie
+92M,Fight Club,Crime,and family,Francis Ford Coppola,4,Marlon Brando,3,movie
+93M,Forrest Gump,Drama,The Dark Knight leaves an indelible mark on the superhero genre,Jonathan Demme,2,Heath Ledger,1.5,movie
+94M,The Matrix,Action,Inception challenges the boundaries of reality with its mind-bending plot,Bryan Singer,4,Leonardo DiCaprio,1.5,movie
+95M,The Lord of the Rings: The Return of the King,Drama,Schindler's List portrays acts of heroism during the Holocaust,David Fincher,3,Liam Neeson,3,movie
+96M,The Godfather: Part II,Crime,Pulp Fiction captivates with its non-linear storytelling and memorable characters,Rob Minkoff and Roger Allers,3,John Travolta,2,movie
+97M,The Silence of the Lambs,Drama,Fight Club explores the disillusionment of modern society through its underground subculture,James Cameron,3,Brad Pitt,2.5,movie
+98M,The Usual Suspects,Drama,Forrest Gump takes audiences on a heartwarming journey through decades of American history,George Lucas,2,Tom Hanks,2.5,movie
+99M,Se7en,Action,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,Robert Zemeckis,2,Keanu Reeves,2,movie
+100M,The Lion King,Adventure,The Return of the King concludes the epic Lord of the Rings trilogy with a triumphant finale,The Wachowskis,3,Elijah Wood,0.5,movie
+101M,The Terminator,Crime,The Godfather: Part II deepens the exploration of power,Peter Jackson,1,Al Pacino,0.5,movie
+102M,The Empire Strikes Back,Drama,family,Francis Ford Coppola,5,Jodie Foster,3,movie
+103M,The Shawshank Redemption,Thriller,and legacy,Jonathan Demme,1,Kevin Spacey,1,movie
+104M,The Godfather,Crime,The Silence of the Lambs sets a benchmark for psychological thrillers,Bryan Singer,2,Morgan Freeman,1.5,movie
+105M,The Dark Knight,Mystery,The Usual Suspects keeps audiences on the edge of their seats with its intricate plot,David Fincher,4,Matthew Broderick,1.5,movie
+106M,Inception,Animation,Se7en immerses viewers in a dark and suspenseful investigation,Rob Minkoff and Roger Allers,2,Arnold Schwarzenegger,2.5,movie
+107M,Schindler's List,Action,The Lion King enchants audiences with its timeless animation and unforgettable music,James Cameron,1,Mark Hamill,3,movie
+108M,Pulp Fiction,Adventure,Two imprisoned men find redemption,George Lucas,1,Martin Freeman,2.5,movie
+109M,Fight Club,Drama,The Godfather transfers power,The Wachowskis,4,Tim Robbins,2.5,movie
+110M,Forrest Gump,Crime,The Joker wreaks havoc in Gotham,Peter Jackson,1,Marlon Brando,1,movie
+111M,The Matrix,Drama,A thief plants an idea through dreams,Francis Ford Coppola,2,Heath Ledger,0.5,movie
+112M,The Lord of the Rings: The Return of the King,Action,Schindler's List during WWII,Jonathan Demme,3,Leonardo DiCaprio,1.5,movie
+113M,The Godfather: Part II,Drama,Lives intertwine in tales of redemption,Bryan Singer,3,Liam Neeson,0.5,movie
+114M,The Silence of the Lambs,Crime,Fight Club evolves into more,David Fincher,2,John Travolta,2.5,movie
+115M,The Usual Suspects,Drama,Historical events unfold in Alabama,Rob Minkoff and Roger Allers,4,Brad Pitt,1.5,movie
+116M,Se7en,Drama,A hacker learns the truth about reality,James Cameron,3,Tom Hanks,3,movie
+117M,The Lion King,Action,Gandalf leads against Sauron's army,George Lucas,4,Keanu Reeves,1.5,movie
+118M,The Terminator,Adventure,Vito Corleone's early life is portrayed,Peter Jackson,5,Elijah Wood,2.5,movie
+119M,The Empire Strikes Back,Crime,An F.B.I. cadet seeks a cannibal's help,Francis Ford Coppola,3,Al Pacino,1,movie
+120M,The Shawshank Redemption,Drama,A sole survivor recounts a boat gunfight,Jonathan Demme,1,Jodie Foster,0.5,movie
+121M,The Godfather,Thriller,A detective navigates military corruption,Bryan Singer,4,Kevin Spacey,1.5,movie
+122M,The Dark Knight,Crime,Simba learns responsibility and bravery,David Fincher,4,Morgan Freeman,1.5,movie
+123M,Inception,Mystery,A soldier is sent to stop a cyborg,Rob Minkoff and Roger Allers,4,Matthew Broderick,0.5,movie
+124M,Schindler's List,Animation,Rebels battle the Empire on Hoth,James Cameron,4,Arnold Schwarzenegger,1,movie
+125M,Pulp Fiction,Action,Luke Skywalker trains with Yoda,George Lucas,2,Mark Hamill,1,movie
+126M,Fight Club,Adventure,The Shawshank Redemption is a classic tale,Francis Ford Coppola,2,Martin Freeman,0.5,movie
+127M,Forrest Gump,Drama,The Godfather: Part II continues the saga,Jonathan Demme,1,Tim Robbins,2.5,movie
+128M,The Matrix,Crime,The Dark Knight brings chaos to Gotham,Bryan Singer,5,Marlon Brando,1,movie
+129M,The Lord of the Rings: The Return of the King,Drama,Inception delves into dream manipulation,David Fincher,1,Heath Ledger,0.5,movie
+130M,The Godfather: Part II,Action,Schindler's List depicts heroism in WWII,Rob Minkoff and Roger Allers,1,Leonardo DiCaprio,1,movie
+131M,The Silence of the Lambs,Drama,Pulp Fiction weaves interconnected stories,James Cameron,2,Liam Neeson,2.5,movie
+132M,The Usual Suspects,Crime,Fight Club explores identity and rebellion,George Lucas,4,John Travolta,2.5,movie
+133M,Se7en,Drama,Forrest Gump witnesses historic events,Jonathan Demme,5,Brad Pitt,1.5,movie
+134M,The Lion King,Drama,The Matrix challenges reality and perception,Bryan Singer,5,Tom Hanks,1,movie
+135M,The Terminator,Action,The Return of the King concludes the epic,David Fincher,2,Keanu Reeves,1.5,movie
+136M,The Empire Strikes Back,Adventure,The Godfather: Part II delves into history,Rob Minkoff and Roger Allers,1,Elijah Wood,2.5,movie
+137M,The Shawshank Redemption,Crime,The Silence of the Lambs is psychological,James Cameron,3,Al Pacino,2.5,movie
+138M,The Godfather,Drama,The Usual Suspects unfolds a mystery,George Lucas,3,Jodie Foster,1,movie
+139M,The Dark Knight,Thriller,Se7en explores the dark side,Bryan Singer,4,Kevin Spacey,0.5,movie
+140M,Inception,Crime,The Lion King is an animated masterpiece,David Fincher,2,Morgan Freeman,2.5,movie
+141M,Schindler's List,Mystery,The Terminator heralds a sci-fi franchise,Rob Minkoff and Roger Allers,2,Matthew Broderick,2.5,movie
+142M,Pulp Fiction,Animation,The Empire Strikes Back intensifies the saga,James Cameron,2,Arnold Schwarzenegger,0.5,movie
+143M,Fight Club,Action,The Shawshank Redemption tells a powerful story,George Lucas,3,Mark Hamill,3,movie
+144M,Forrest Gump,Adventure,The Godfather continues its iconic narrative,David Fincher,5,Martin Freeman,1.5,movie
+145M,The Matrix,Drama,The Dark Knight rises with intensity,Rob Minkoff and Roger Allers,4,Tim Robbins,0.5,movie
+146M,The Lord of the Rings: The Return of the King,Crime,Inception explores the power of dreams,James Cameron,4,Marlon Brando,1,movie
+147M,The Godfather: Part II,Drama,Schindler's List is a poignant historical drama,George Lucas,3,Heath Ledger,0.5,movie
+148M,The Silence of the Lambs,Action,Pulp Fiction captivates with nonlinear storytelling,Rob Minkoff and Roger Allers,3,Leonardo DiCaprio,3,movie
+149M,The Usual Suspects,Drama,Fight Club delves into underground subcultures,James Cameron,2,Liam Neeson,0.5,movie
+150M,Se7en,Crime,Forrest Gump charms with a unique perspective,George Lucas,5,John Travolta,2.5,movie
+151M,The Lion King,Drama,The Matrix revolutionizes visual effects,Quentin Tarantino,2,Brad Pitt,3,movie
+152M,The Terminator,Drama,The Return of the King triumphs in fantasy,Christopher Nolan,3,Tom Hanks,3,movie
+153M,The Empire Strikes Back,Action,The Godfather: Part II expands the legacy,David Fincher,2,Keanu Reeves,1.5,movie
+154M,The Shawshank Redemption,Adventure,The Silence of the Lambs is a gripping thriller,Robert Zemeckis,4,Elijah Wood,0.5,movie
+155M,The Godfather,Crime,The Usual Suspects delivers a mind-bending twist,The Wachowskis,4,Al Pacino,0.5,movie
+156M,The Dark Knight,Drama,Se7en shocks with its dark narrative,Peter Jackson,4,Jodie Foster,0.5,movie
+157M,Inception,Thriller,The Lion King remains a beloved classic,Francis Ford Coppola,5,Kevin Spacey,1.5,movie
+158M,Schindler's List,Crime,The Terminator introduces a relentless foe,Jonathan Demme,3,Morgan Freeman,0.5,movie
+159M,Pulp Fiction,Mystery,The Empire Strikes Back deepens the Star Wars saga,Bryan Singer,4,Matthew Broderick,1,movie
+160M,Fight Club,Animation,The Shawshank Redemption inspires with hope,David Fincher,3,Arnold Schwarzenegger,2.5,movie
+161M,Forrest Gump,Action,The Godfather: Part II continues its epic journey,Rob Minkoff and Roger Allers,5,Mark Hamill,1.5,movie
+162M,The Matrix,Adventure,The Dark Knight mesmerizes with Heath Ledger's performance,James Cameron,2,Martin Freeman,3,movie
+163M,The Lord of the Rings: The Return of the King,Drama,Inception challenges the boundaries of reality,George Lucas,4,Tim Robbins,3,movie
+164M,The Godfather: Part II,Crime,Schindler's List portrays the heroism of an unlikely savior,Martin Scorsese,3,Marlon Brando,1.5,movie
+165M,The Silence of the Lambs,Drama,Pulp Fiction weaves together disparate stories,Steven Spielberg,3,Heath Ledger,2.5,movie
+166M,The Usual Suspects,Action,Fight Club explores the disillusionment of modern society,Christopher Nolan,2,Leonardo DiCaprio,1,movie
+167M,Se7en,Drama,Forrest Gump navigates through decades of American history,David Fincher,2,Liam Neeson,2,movie
+168M,The Lion King,Crime,The Matrix introduces a new era of filmmaking,Quentin Tarantino,1,John Travolta,2.5,movie
+169M,The Terminator,Drama,The Return of the King concludes the epic Middle-earth saga,Robert Zemeckis,1,Brad Pitt,2,movie
+170M,The Empire Strikes Back,Drama,The Godfather: Part II provides a rich tapestry of crime and family,The Wachowskis,3,Tom Hanks,2,movie
+171M,The Shawshank Redemption,Action,The Silence of the Lambs terrifies with its psychological intensity,Peter Jackson,4,Keanu Reeves,1.5,movie
+172M,The Godfather,Adventure,The Usual Suspects keeps audiences guessing until the end,Francis Ford Coppola,4,Elijah Wood,1.5,movie
+173M,The Dark Knight,Crime,Se7en immerses viewers in a dark and twisted investigation,Jonathan Demme,1,Al Pacino,1,movie
+174M,Inception,Drama,The Lion King captures hearts with its timeless animation,Bryan Singer,3,Jodie Foster,1,movie
+175M,Schindler's List,Thriller,The Terminator sets the stage for a sci-fi franchise,David Fincher,3,Kevin Spacey,1,movie
+176M,Pulp Fiction,Crime,The Empire Strikes Back raises the stakes in the Star Wars saga,Rob Minkoff and Roger Allers,4,Morgan Freeman,1,movie
+177M,Fight Club,Mystery,The Shawshank Redemption offers a tale of resilience and redemption,James Cameron,3,Matthew Broderick,1.5,movie
+178M,Forrest Gump,Animation,The Godfather: Part II expands the narrative with dual timelines,George Lucas,3,Arnold Schwarzenegger,3,movie
+179M,The Matrix,Action,The Dark Knight leaves an indelible mark on superhero cinema,Francis Ford Coppola,4,Mark Hamill,1,movie
+180M,The Lord of the Rings: The Return of the King,Adventure,Inception bends the rules of reality with mind-bending concepts,Christopher Nolan,2,Martin Freeman,1.5,movie
+181M,The Godfather: Part II,Drama,Schindler's List commemorates acts of compassion during the Holocaust,Christopher Nolan,5,Tim Robbins,0.5,movie
+182M,The Silence of the Lambs,Crime,Pulp Fiction breaks cinematic conventions with its nonlinear storytelling,Steven Spielberg,2,Marlon Brando,2,movie
+183M,The Usual Suspects,Drama,Fight Club critiques societal norms through an underground subculture,Quentin Tarantino,4,Heath Ledger,3,movie
+184M,Se7en,Action,Forrest Gump weaves a heartwarming and epic journey through history,David Fincher,1,Leonardo DiCaprio,2,movie
+185M,The Lion King,Drama,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,Robert Zemeckis,2,Liam Neeson,0.5,movie
+186M,The Terminator,Crime,The Return of the King delivers a triumphant conclusion to the Lord of the Rings trilogy,The Wachowskis,5,John Travolta,3,movie
+187M,The Empire Strikes Back,Drama,The Godfather: Part II deepens the exploration of power,Peter Jackson,1,Brad Pitt,2.5,movie
+188M,The Shawshank Redemption,Drama,family,Francis Ford Coppola,4,Tom Hanks,0.5,movie
+189M,The Godfather,Action,and legacy,Jonathan Demme,2,Keanu Reeves,2,movie
+190M,The Dark Knight,Adventure,The Silence of the Lambs sets a benchmark for psychological thrillers,Bryan Singer,2,Elijah Wood,2,movie
+191M,Inception,Crime,The Usual Suspects keeps audiences on the edge of their seats with its intricate plot,David Fincher,5,Al Pacino,3,movie
+192M,Schindler's List,Drama,Se7en immerses viewers in a dark and suspenseful investigation,Rob Minkoff and Roger Allers,2,Jodie Foster,0.5,movie
+193M,Pulp Fiction,Thriller,The Lion King enchants audiences with its timeless animation and unforgettable music,James Cameron,3,Kevin Spacey,2,movie
+194M,Fight Club,Crime,The Terminator lays the foundation for a iconic sci-fi franchise,George Lucas,5,Morgan Freeman,3,movie
+195M,Forrest Gump,Mystery,The Empire Strikes Back raises the stakes in the Star Wars saga,Christopher Nolan,3,Matthew Broderick,3,movie
+196M,The Matrix,Animation,The Shawshank Redemption resonates with its tale of hope and redemption,Steven Spielberg,4,Arnold Schwarzenegger,3,movie
+197M,The Lord of the Rings: The Return of the King,Action,The Godfather: Part II weaves a complex narrative of crime,Quentin Tarantino,3,Mark Hamill,0.5,movie
+198M,The Godfather: Part II,Adventure,power,David Fincher,5,Martin Freeman,0.5,movie
+199M,The Silence of the Lambs,Drama,and family,Robert Zemeckis,4,Tim Robbins,3,movie
+200M,The Usual Suspects,Crime,The Dark Knight leaves an indelible mark on the superhero genre,The Wachowskis,2,Marlon Brando,3,movie
+201M,Se7en,Drama,Inception challenges the boundaries of reality with its mind-bending plot,Peter Jackson,1,Heath Ledger,3,movie
+202M,The Lion King,Action,Schindler's List portrays acts of heroism during the Holocaust,Francis Ford Coppola,5,Leonardo DiCaprio,1,movie
+203M,The Terminator,Drama,Pulp Fiction captivates with its non-linear storytelling and memorable characters,Jonathan Demme,5,Liam Neeson,2,movie
+204M,The Empire Strikes Back,Crime,Fight Club explores the disillusionment of modern society through its underground subculture,Bryan Singer,1,John Travolta,1,movie
+205M,The Shawshank Redemption,Drama,Forrest Gump takes audiences on a heartwarming journey through decades of American history,David Fincher,1,Brad Pitt,2,movie
+206M,The Godfather,Drama,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,Rob Minkoff and Roger Allers,5,Tom Hanks,0.5,movie
+207M,The Dark Knight,Action,The Return of the King concludes the epic Lord of the Rings trilogy with a triumphant finale,James Cameron,2,Keanu Reeves,2,movie
+208M,Inception,Adventure,The Godfather: Part II deepens the exploration of power,George Lucas,1,Elijah Wood,0.5,movie
+209M,Schindler's List,Crime,family,Steven Spielberg,4,Al Pacino,0.5,movie
+210M,Pulp Fiction,Drama,and legacy,Quentin Tarantino,4,Jodie Foster,1.5,movie
+211M,Fight Club,Thriller,The Silence of the Lambs sets a benchmark for psychological thrillers,David Fincher,4,Kevin Spacey,2.5,movie
+212M,Forrest Gump,Crime,The Usual Suspects keeps audiences on the edge of their seats with its intricate plot,Robert Zemeckis,2,Morgan Freeman,1,movie
+213M,The Matrix,Mystery,Se7en immerses viewers in a dark and suspenseful investigation,The Wachowskis,2,Matthew Broderick,3,movie
+214M,The Lord of the Rings: The Return of the King,Animation,The Lion King enchants audiences with its timeless animation and unforgettable music,Peter Jackson,4,Arnold Schwarzenegger,0.5,movie
+215M,The Godfather: Part II,Action,Two imprisoned men find redemption,Francis Ford Coppola,1,Mark Hamill,3,movie
+216M,The Silence of the Lambs,Adventure,The Godfather transfers power,Jonathan Demme,3,Martin Freeman,1,movie
+217M,The Usual Suspects,Drama,The Joker wreaks havoc in Gotham,Bryan Singer,3,Tim Robbins,3,movie
+218M,Se7en,Crime,A thief plants an idea through dreams,David Fincher,3,Marlon Brando,2,movie
+219M,The Lion King,Drama,Schindler's List during WWII,Rob Minkoff and Roger Allers,1,Heath Ledger,1,movie
+220M,The Terminator,Action,Lives intertwine in tales of redemption,James Cameron,1,Leonardo DiCaprio,1.5,movie
+221M,The Empire Strikes Back,Drama,Fight Club evolves into more,George Lucas,2,Liam Neeson,2.5,movie
+222M,The Shawshank Redemption,Crime,Historical events unfold in Alabama,Quentin Tarantino,4,John Travolta,3,movie
+223M,The Godfather,Drama,A hacker learns the truth about reality,David Fincher,1,Brad Pitt,0.5,movie
+224M,The Dark Knight,Drama,Gandalf leads against Sauron's army,Robert Zemeckis,3,Tom Hanks,1,movie
+225M,Inception,Action,Vito Corleone's early life is portrayed,The Wachowskis,2,Keanu Reeves,1,movie
+226M,Schindler's List,Adventure,An F.B.I. cadet seeks a cannibal's help,Peter Jackson,1,Elijah Wood,2,movie
+227M,Pulp Fiction,Crime,A sole survivor recounts a boat gunfight,Francis Ford Coppola,3,Al Pacino,1,movie
+228M,Fight Club,Drama,A detective navigates military corruption,Jonathan Demme,3,Jodie Foster,2.5,movie
+229M,Forrest Gump,Thriller,Simba learns responsibility and bravery,Bryan Singer,1,Kevin Spacey,0.5,movie
+230M,The Matrix,Crime,A soldier is sent to stop a cyborg,David Fincher,2,Morgan Freeman,3,movie
+231M,The Lord of the Rings: The Return of the King,Mystery,Rebels battle the Empire on Hoth,Rob Minkoff and Roger Allers,1,Matthew Broderick,3,movie
+232M,The Godfather: Part II,Animation,Luke Skywalker trains with Yoda,James Cameron,5,Arnold Schwarzenegger,1,movie
+233M,The Silence of the Lambs,Action,The Shawshank Redemption is a classic tale,George Lucas,2,Mark Hamill,2,movie
+234M,The Usual Suspects,Adventure,The Godfather: Part II continues the saga,David Fincher,4,Martin Freeman,3,movie
+235M,Se7en,Drama,The Dark Knight brings chaos to Gotham,Robert Zemeckis,2,Tim Robbins,3,movie
+236M,The Lion King,Crime,Inception delves into dream manipulation,The Wachowskis,5,Marlon Brando,1.5,movie
+237M,The Terminator,Drama,Schindler's List depicts heroism in WWII,Peter Jackson,3,Heath Ledger,1,movie
+238M,The Empire Strikes Back,Action,Pulp Fiction weaves interconnected stories,Francis Ford Coppola,2,Leonardo DiCaprio,3,movie
+239M,The Shawshank Redemption,Drama,Fight Club explores identity and rebellion,Jonathan Demme,3,Liam Neeson,3,movie
+240M,The Godfather,Crime,Forrest Gump witnesses historic events,Bryan Singer,4,John Travolta,3,movie
+241M,The Dark Knight,Drama,The Matrix challenges reality and perception,David Fincher,5,Brad Pitt,2.5,movie
+242M,Inception,Drama,The Return of the King concludes the epic,Rob Minkoff and Roger Allers,4,Tom Hanks,1.5,movie
+243M,Schindler's List,Action,The Godfather: Part II delves into history,James Cameron,4,Keanu Reeves,3,movie
+244M,Pulp Fiction,Adventure,The Silence of the Lambs is psychological,George Lucas,4,Elijah Wood,3,movie
+245M,Fight Club,Crime,The Usual Suspects unfolds a mystery,Robert Zemeckis,1,Al Pacino,3,movie
+246M,Forrest Gump,Drama,Se7en explores the dark side,The Wachowskis,4,Jodie Foster,0.5,movie
+247M,The Matrix,Thriller,The Lion King is an animated masterpiece,Peter Jackson,2,Kevin Spacey,0.5,movie
+248M,The Lord of the Rings: The Return of the King,Crime,The Terminator heralds a sci-fi franchise,Francis Ford Coppola,5,Morgan Freeman,1,movie
+249M,The Godfather: Part II,Mystery,The Empire Strikes Back intensifies the saga,Jonathan Demme,4,Matthew Broderick,2.5,movie
+250M,The Silence of the Lambs,Animation,The Shawshank Redemption tells a powerful story,Bryan Singer,1,Arnold Schwarzenegger,3,movie
+251M,The Usual Suspects,Action,The Godfather continues its iconic narrative,David Fincher,1,Mark Hamill,2.5,movie
+252M,Se7en,Adventure,The Dark Knight rises with intensity,Rob Minkoff and Roger Allers,3,Martin Freeman,3,movie
+253M,The Lion King,Drama,Inception explores the power of dreams,James Cameron,1,Tim Robbins,0.5,movie
+254M,The Terminator,Crime,Schindler's List is a poignant historical drama,George Lucas,3,Marlon Brando,1.5,movie
+255M,The Empire Strikes Back,Drama,Pulp Fiction captivates with nonlinear storytelling,The Wachowskis,3,Heath Ledger,1,movie
+256M,The Shawshank Redemption,Action,Fight Club delves into underground subcultures,Peter Jackson,2,Leonardo DiCaprio,3,movie
+257M,The Godfather,Drama,Forrest Gump charms with a unique perspective,Francis Ford Coppola,4,Liam Neeson,1.5,movie
+258M,The Dark Knight,Crime,The Matrix revolutionizes visual effects,Jonathan Demme,4,John Travolta,0.5,movie
+259M,Inception,Drama,The Return of the King triumphs in fantasy,Bryan Singer,5,Brad Pitt,3,movie
+260M,Schindler's List,Drama,The Godfather: Part II expands the legacy,David Fincher,2,Tom Hanks,0.5,movie
+261M,Pulp Fiction,Action,The Silence of the Lambs is a gripping thriller,Rob Minkoff and Roger Allers,2,Keanu Reeves,1.5,movie
+262M,Fight Club,Adventure,The Usual Suspects delivers a mind-bending twist,James Cameron,1,Elijah Wood,1,movie
+263M,Forrest Gump,Crime,Se7en shocks with its dark narrative,George Lucas,2,Al Pacino,0.5,movie
+264M,The Matrix,Drama,The Lion King remains a beloved classic,Peter Jackson,5,Jodie Foster,0.5,movie
+265M,The Lord of the Rings: The Return of the King,Thriller,The Terminator introduces a relentless foe,Francis Ford Coppola,4,Kevin Spacey,3,movie
+266M,The Godfather: Part II,Crime,The Empire Strikes Back deepens the Star Wars saga,Jonathan Demme,4,Morgan Freeman,1,movie
+267M,The Silence of the Lambs,Mystery,The Shawshank Redemption inspires with hope,Bryan Singer,1,Matthew Broderick,1,movie
+268M,The Usual Suspects,Animation,The Godfather: Part II continues its epic journey,David Fincher,1,Arnold Schwarzenegger,3,movie
+269M,Se7en,Action,The Dark Knight mesmerizes with Heath Ledger's performance,Rob Minkoff and Roger Allers,4,Mark Hamill,2.5,movie
+270M,The Lion King,Adventure,Inception challenges the boundaries of reality,James Cameron,3,Martin Freeman,0.5,movie
+271M,The Terminator,Drama,Schindler's List portrays the heroism of an unlikely savior,George Lucas,3,Tim Robbins,3,movie
+272M,The Empire Strikes Back,Crime,Pulp Fiction weaves together disparate stories,Francis Ford Coppola,4,Marlon Brando,3,movie
+273M,The Shawshank Redemption,Drama,Fight Club explores the disillusionment of modern society,Jonathan Demme,2,Heath Ledger,0.5,movie
+274M,The Godfather,Action,Forrest Gump navigates through decades of American history,Bryan Singer,1,Leonardo DiCaprio,0.5,movie
+275M,The Dark Knight,Drama,The Matrix introduces a new era of filmmaking,David Fincher,2,Liam Neeson,2,movie
+276M,Inception,Crime,The Return of the King concludes the epic Middle-earth saga,Rob Minkoff and Roger Allers,2,John Travolta,3,movie
+277M,Schindler's List,Drama,The Godfather: Part II provides a rich tapestry of crime and family,James Cameron,3,Brad Pitt,3,movie
+278M,Pulp Fiction,Drama,The Silence of the Lambs terrifies with its psychological intensity,George Lucas,1,Tom Hanks,0.5,movie
+279M,Fight Club,Action,The Usual Suspects keeps audiences guessing until the end,Jonathan Demme,2,Keanu Reeves,3,movie
+280M,Forrest Gump,Adventure,Se7en immerses viewers in a dark and twisted investigation,Bryan Singer,5,Elijah Wood,0.5,movie
+281M,The Matrix,Crime,The Lion King captures hearts with its timeless animation,David Fincher,3,Al Pacino,0.5,movie
+282M,The Lord of the Rings: The Return of the King,Drama,The Terminator sets the stage for a sci-fi franchise,Rob Minkoff and Roger Allers,4,Jodie Foster,2.5,movie
+283M,The Godfather: Part II,Thriller,The Empire Strikes Back raises the stakes in the Star Wars saga,James Cameron,2,Kevin Spacey,1,movie
+284M,The Silence of the Lambs,Crime,The Shawshank Redemption offers a tale of resilience and redemption,George Lucas,3,Morgan Freeman,0.5,movie
+285M,The Usual Suspects,Mystery,The Godfather: Part II expands the narrative with dual timelines,Bryan Singer,5,Matthew Broderick,1,movie
+286M,Se7en,Animation,The Dark Knight leaves an indelible mark on superhero cinema,David Fincher,3,Arnold Schwarzenegger,2,movie
+287M,The Lion King,Action,Inception bends the rules of reality with mind-bending concepts,Rob Minkoff and Roger Allers,4,Mark Hamill,2.5,movie
+288M,The Terminator,Adventure,Schindler's List commemorates acts of compassion during the Holocaust,James Cameron,2,Martin Freeman,3,movie
+289M,The Empire Strikes Back,Drama,Pulp Fiction breaks cinematic conventions with its nonlinear storytelling,George Lucas,3,Tim Robbins,0.5,movie
+290M,The Shawshank Redemption,Crime,Fight Club critiques societal norms through an underground subculture,David Fincher,4,Marlon Brando,3,movie
+291M,The Godfather,Drama,Forrest Gump weaves a heartwarming and epic journey through history,Rob Minkoff and Roger Allers,1,Heath Ledger,2,movie
+292M,The Dark Knight,Action,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,James Cameron,4,Leonardo DiCaprio,1.5,movie
+293M,Inception,Drama,The Return of the King delivers a triumphant conclusion to the Lord of the Rings trilogy,George Lucas,2,Liam Neeson,0.5,movie
+294M,Schindler's List,Crime,The Godfather: Part II deepens the exploration of power,Rob Minkoff and Roger Allers,1,John Travolta,3,movie
+295M,Pulp Fiction,Drama,family,James Cameron,3,Brad Pitt,0.5,movie
+296M,Fight Club,Drama,and legacy,George Lucas,5,Tom Hanks,2,movie
+297M,Forrest Gump,Action,The Silence of the Lambs sets a benchmark for psychological thrillers,Frank Darabont,4,Keanu Reeves,2,movie
+298M,The Matrix,Adventure,The Usual Suspects keeps audiences on the edge of their seats with its intricate plot,Francis Ford Coppola,4,Elijah Wood,1.5,movie
+299M,The Lord of the Rings: The Return of the King,Crime,Se7en immerses viewers in a dark and suspenseful investigation,Christopher Nolan,1,Al Pacino,3,movie
+300M,The Godfather: Part II,Drama,The Lion King enchants audiences with its timeless animation and unforgettable music,Christopher Nolan,1,Jodie Foster,2.5,movie
+301M,The Silence of the Lambs,Thriller,The Terminator lays the foundation for a iconic sci-fi franchise,Steven Spielberg,1,Kevin Spacey,0.5,movie
+302M,The Usual Suspects,Crime,The Empire Strikes Back raises the stakes in the Star Wars saga,Quentin Tarantino,5,Morgan Freeman,2,movie
+303M,Se7en,Mystery,The Shawshank Redemption resonates with its tale of hope and redemption,David Fincher,1,Matthew Broderick,3,movie
+304M,The Lion King,Animation,The Godfather: Part II weaves a complex narrative of crime,Robert Zemeckis,5,Arnold Schwarzenegger,2,movie
+305M,The Terminator,Action,power,The Wachowskis,1,Mark Hamill,2,movie
+306M,The Empire Strikes Back,Adventure,and family,Peter Jackson,4,Martin Freeman,1,movie
+307M,The Shawshank Redemption,Drama,The Dark Knight leaves an indelible mark on the superhero genre,Francis Ford Coppola,3,Tim Robbins,2.5,movie
+308M,The Godfather,Crime,Inception challenges the boundaries of reality with its mind-bending plot,Jonathan Demme,5,Marlon Brando,1.5,movie
+309M,The Dark Knight,Drama,Schindler's List portrays acts of heroism during the Holocaust,Bryan Singer,3,Heath Ledger,1,movie
+310M,Inception,Action,Pulp Fiction captivates with its non-linear storytelling and memorable characters,David Fincher,1,Leonardo DiCaprio,1.5,movie
+311M,Schindler's List,Drama,Fight Club explores the disillusionment of modern society through its underground subculture,Rob Minkoff and Roger Allers,1,Liam Neeson,2,movie
+312M,Pulp Fiction,Crime,Forrest Gump takes audiences on a heartwarming journey through decades of American history,James Cameron,5,John Travolta,2.5,movie
+313M,Fight Club,Drama,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,George Lucas,2,Brad Pitt,3,movie
+314M,Forrest Gump,Drama,The Return of the King concludes the epic Lord of the Rings trilogy with a triumphant finale,Martin Scorsese,5,Tom Hanks,1,movie
+315M,The Matrix,Action,The Godfather: Part II deepens the exploration of power,Steven Spielberg,5,Keanu Reeves,2,movie
+316M,The Lord of the Rings: The Return of the King,Adventure,family,Christopher Nolan,4,Elijah Wood,2,movie
+317M,The Godfather: Part II,Crime,and legacy,David Fincher,5,Al Pacino,1,movie
+318M,The Silence of the Lambs,Drama,The Silence of the Lambs sets a benchmark for psychological thrillers,Quentin Tarantino,5,Jodie Foster,0.5,movie
+319M,The Usual Suspects,Thriller,The Usual Suspects keeps audiences on the edge of their seats with its intricate plot,Robert Zemeckis,2,Kevin Spacey,2,movie
+320M,Se7en,Crime,Se7en immerses viewers in a dark and suspenseful investigation,The Wachowskis,5,Morgan Freeman,2,movie
+321M,The Lion King,Mystery,The Lion King enchants audiences with its timeless animation and unforgettable music,Peter Jackson,3,Matthew Broderick,3,movie
+322M,The Terminator,Animation,Two imprisoned men find redemption,Francis Ford Coppola,1,Arnold Schwarzenegger,3,movie
+323M,The Empire Strikes Back,Action,The Godfather transfers power,Jonathan Demme,1,Mark Hamill,2,movie
+324M,The Shawshank Redemption,Adventure,The Joker wreaks havoc in Gotham,Bryan Singer,2,Martin Freeman,2.5,movie
+325M,The Godfather,Drama,A thief plants an idea through dreams,David Fincher,3,Tim Robbins,2.5,movie
+326M,The Dark Knight,Crime,Schindler's List during WWII,Rob Minkoff and Roger Allers,2,Marlon Brando,3,movie
+327M,Inception,Drama,Lives intertwine in tales of redemption,James Cameron,4,Heath Ledger,1.5,movie
+328M,Schindler's List,Action,Fight Club evolves into more,George Lucas,2,Leonardo DiCaprio,2,movie
+329M,Pulp Fiction,Drama,Historical events unfold in Alabama,Francis Ford Coppola,4,Liam Neeson,2,movie
+330M,Fight Club,Crime,A hacker learns the truth about reality,Christopher Nolan,5,John Travolta,0.5,movie
+331M,Forrest Gump,Drama,Gandalf leads against Sauron's army,Christopher Nolan,4,Brad Pitt,2.5,movie
+332M,The Matrix,Drama,Vito Corleone's early life is portrayed,Steven Spielberg,2,Tom Hanks,2,movie
+333M,The Lord of the Rings: The Return of the King,Action,An F.B.I. cadet seeks a cannibal's help,Quentin Tarantino,5,Keanu Reeves,3,movie
+334M,The Godfather: Part II,Adventure,A sole survivor recounts a boat gunfight,David Fincher,2,Elijah Wood,1.5,movie
+335M,The Silence of the Lambs,Crime,A detective navigates military corruption,Robert Zemeckis,5,Al Pacino,2.5,movie
+336M,The Usual Suspects,Drama,Simba learns responsibility and bravery,The Wachowskis,5,Jodie Foster,2.5,movie
+337M,Se7en,Thriller,A soldier is sent to stop a cyborg,Peter Jackson,1,Kevin Spacey,1.5,movie
+338M,The Lion King,Crime,Rebels battle the Empire on Hoth,Francis Ford Coppola,2,Morgan Freeman,1.5,movie
+339M,The Terminator,Mystery,Luke Skywalker trains with Yoda,Jonathan Demme,1,Matthew Broderick,1,movie
+340M,The Empire Strikes Back,Animation,The Shawshank Redemption is a classic tale,Bryan Singer,1,Arnold Schwarzenegger,1,movie
+341M,The Shawshank Redemption,Action,The Godfather: Part II continues the saga,David Fincher,4,Mark Hamill,1.5,movie
+342M,The Godfather,Adventure,The Dark Knight brings chaos to Gotham,Rob Minkoff and Roger Allers,1,Martin Freeman,0.5,movie
+343M,The Dark Knight,Drama,Inception delves into dream manipulation,James Cameron,3,Tim Robbins,1,movie
+344M,Inception,Crime,Schindler's List depicts heroism in WWII,George Lucas,4,Marlon Brando,2.5,movie
+345M,Schindler's List,Drama,Pulp Fiction weaves interconnected stories,Christopher Nolan,2,Heath Ledger,2,movie
+346M,Pulp Fiction,Action,Fight Club explores identity and rebellion,Steven Spielberg,5,Leonardo DiCaprio,0.5,movie
+347M,Fight Club,Drama,Forrest Gump witnesses historic events,Quentin Tarantino,1,Liam Neeson,1,movie
+348M,Forrest Gump,Crime,The Matrix challenges reality and perception,David Fincher,4,John Travolta,0.5,movie
+349M,The Matrix,Drama,The Return of the King concludes the epic,Robert Zemeckis,1,Brad Pitt,2,movie
+350M,The Lord of the Rings: The Return of the King,Drama,The Godfather: Part II delves into history,The Wachowskis,4,Tom Hanks,2.5,movie
+351M,The Godfather: Part II,Action,The Silence of the Lambs is psychological,Peter Jackson,2,Keanu Reeves,1.5,movie
+352M,The Silence of the Lambs,Adventure,The Usual Suspects unfolds a mystery,Francis Ford Coppola,4,Elijah Wood,0.5,movie
+353M,The Usual Suspects,Crime,Se7en explores the dark side,Jonathan Demme,5,Al Pacino,0.5,movie
+354M,Se7en,Drama,The Lion King is an animated masterpiece,Bryan Singer,2,Jodie Foster,3,movie
+355M,The Lion King,Thriller,The Terminator heralds a sci-fi franchise,David Fincher,2,Kevin Spacey,2,movie
+356M,The Terminator,Crime,The Empire Strikes Back intensifies the saga,Rob Minkoff and Roger Allers,3,Morgan Freeman,1,movie
+357M,The Empire Strikes Back,Mystery,The Shawshank Redemption tells a powerful story,James Cameron,5,Matthew Broderick,1.5,movie
+358M,The Shawshank Redemption,Animation,The Godfather continues its iconic narrative,George Lucas,4,Arnold Schwarzenegger,2.5,movie
+359M,The Godfather,Action,The Dark Knight rises with intensity,Steven Spielberg,3,Mark Hamill,0.5,movie
+360M,The Dark Knight,Adventure,Inception explores the power of dreams,Quentin Tarantino,3,Martin Freeman,1,movie
+361M,Inception,Drama,Schindler's List is a poignant historical drama,David Fincher,2,Tim Robbins,0.5,movie
+362M,Schindler's List,Crime,Pulp Fiction captivates with nonlinear storytelling,Robert Zemeckis,1,Marlon Brando,1.5,movie
+363M,Pulp Fiction,Drama,Fight Club delves into underground subcultures,The Wachowskis,1,Heath Ledger,2,movie
+364M,Fight Club,Action,Forrest Gump charms with a unique perspective,Peter Jackson,1,Leonardo DiCaprio,1.5,movie
+365M,Forrest Gump,Drama,The Matrix revolutionizes visual effects,Francis Ford Coppola,3,Liam Neeson,2,movie
+366M,The Matrix,Crime,The Return of the King triumphs in fantasy,Jonathan Demme,1,John Travolta,3,movie
+367M,The Lord of the Rings: The Return of the King,Drama,The Godfather: Part II expands the legacy,Bryan Singer,3,Brad Pitt,2.5,movie
+368M,The Godfather: Part II,Drama,The Silence of the Lambs is a gripping thriller,David Fincher,1,Tom Hanks,1,movie
+369M,The Silence of the Lambs,Action,The Usual Suspects delivers a mind-bending twist,Rob Minkoff and Roger Allers,3,Keanu Reeves,1.5,movie
+370M,The Usual Suspects,Adventure,Se7en shocks with its dark narrative,James Cameron,3,Elijah Wood,1.5,movie
+371M,Se7en,Crime,The Lion King remains a beloved classic,George Lucas,2,Al Pacino,2,movie
+372M,The Lion King,Drama,The Terminator introduces a relentless foe,Quentin Tarantino,5,Jodie Foster,2,movie
+373M,The Terminator,Thriller,The Empire Strikes Back deepens the Star Wars saga,David Fincher,2,Kevin Spacey,0.5,movie
+374M,The Empire Strikes Back,Crime,The Shawshank Redemption inspires with hope,Robert Zemeckis,1,Morgan Freeman,2.5,movie
+375M,The Shawshank Redemption,Mystery,The Godfather: Part II continues its epic journey,The Wachowskis,4,Matthew Broderick,1,movie
+376M,The Godfather,Animation,The Dark Knight mesmerizes with Heath Ledger's performance,Peter Jackson,3,Arnold Schwarzenegger,3,movie
+377M,The Dark Knight,Action,Inception challenges the boundaries of reality,Francis Ford Coppola,3,Mark Hamill,1,movie
+378M,Inception,Adventure,Schindler's List portrays the heroism of an unlikely savior,Jonathan Demme,1,Martin Freeman,2,movie
+379M,Schindler's List,Drama,Pulp Fiction weaves together disparate stories,Bryan Singer,5,Tim Robbins,2.5,movie
+380M,Pulp Fiction,Crime,Fight Club explores the disillusionment of modern society,David Fincher,1,Marlon Brando,1,movie
+381M,Fight Club,Drama,Forrest Gump navigates through decades of American history,Rob Minkoff and Roger Allers,2,Heath Ledger,3,movie
+382M,Forrest Gump,Action,The Matrix introduces a new era of filmmaking,James Cameron,4,Leonardo DiCaprio,3,movie
+383M,The Matrix,Drama,The Return of the King concludes the epic Middle-earth saga,George Lucas,1,Liam Neeson,2,movie
+384M,The Lord of the Rings: The Return of the King,Crime,The Godfather: Part II provides a rich tapestry of crime and family,David Fincher,5,John Travolta,1.5,movie
+385M,The Godfather: Part II,Drama,The Silence of the Lambs terrifies with its psychological intensity,Robert Zemeckis,3,Brad Pitt,1,movie
+386M,The Silence of the Lambs,Drama,The Usual Suspects keeps audiences guessing until the end,The Wachowskis,5,Tom Hanks,0.5,movie
+387M,The Usual Suspects,Action,Se7en immerses viewers in a dark and twisted investigation,Peter Jackson,2,Keanu Reeves,1,movie
+388M,Se7en,Adventure,The Lion King captures hearts with its timeless animation,Francis Ford Coppola,4,Elijah Wood,0.5,movie
+389M,The Lion King,Crime,The Terminator sets the stage for a sci-fi franchise,Jonathan Demme,1,Al Pacino,1,movie
+390M,The Terminator,Drama,The Empire Strikes Back raises the stakes in the Star Wars saga,Bryan Singer,1,Jodie Foster,2.5,movie
+391M,The Empire Strikes Back,Thriller,The Shawshank Redemption offers a tale of resilience and redemption,David Fincher,5,Kevin Spacey,1.5,movie
+392M,The Shawshank Redemption,Crime,The Godfather: Part II expands the narrative with dual timelines,Rob Minkoff and Roger Allers,3,Morgan Freeman,1.5,movie
+393M,The Godfather,Mystery,The Dark Knight leaves an indelible mark on superhero cinema,James Cameron,3,Matthew Broderick,2,movie
+394M,The Dark Knight,Animation,Inception bends the rules of reality with mind-bending concepts,George Lucas,2,Arnold Schwarzenegger,1.5,movie
+395M,Inception,Action,Schindler's List commemorates acts of compassion during the Holocaust,Robert Zemeckis,2,Mark Hamill,0.5,movie
+396M,Schindler's List,Adventure,Pulp Fiction breaks cinematic conventions with its nonlinear storytelling,The Wachowskis,3,Martin Freeman,2.5,movie
+397M,Pulp Fiction,Drama,Fight Club critiques societal norms through an underground subculture,Peter Jackson,4,Tim Robbins,2.5,movie
+398M,Fight Club,Crime,Forrest Gump weaves a heartwarming and epic journey through history,Francis Ford Coppola,4,Marlon Brando,3,movie
+399M,Forrest Gump,Drama,The Matrix revolutionizes filmmaking with its groundbreaking visual effects,Jonathan Demme,4,Heath Ledger,1.5,movie
+400M,The Matrix,Action,The Return of the King delivers a triumphant conclusion to the Lord of the Rings trilogy,Bryan Singer,1,Leonardo DiCaprio,1.5,movie
