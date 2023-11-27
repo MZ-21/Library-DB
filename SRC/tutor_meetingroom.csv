@@ -1,0 +1,201 @@
+bookingID,availability,subject,TutorName,TutorEmail,location,capacity,room_feautres,roomName,dateBooked,bookingType
+100BK,0,French,"Zane Puckett",zpuckett2r@dropbox.com,"lower floor right wing",10,whiteboard,"Room C",2023-01-18,"room and tutor"
+101BK,0,History,"Billie Tayspell",btayspell2s@slashdot.org,"lower floor right wing",2,whiteboard,"Room D",2023-12-21,"room and tutor"
+102BK,0,Programming,"Guillema Lidgley",glidgley2t@bloglovin.com,"upper floor main",3,whiteboard,"Room D",2023-09-11,"room and tutor"
+103BK,1,Science,"Maressa Alabastar",malabastar2u@tmall.com,"upper floor main",3,"tv and whiteboard","Room C",2023-02-21,"room and tutor"
+104BK,1,English,"Garv McAuliffe",gmcauliffe2v@paginegialle.it,"lower floor right wing",7,tv,"Room B",2023-07-26,tutor
+105BK,0,History,"Gordie O'Henehan",gohenehan2w@etsy.com,"lower floor left wing",3,tv,"Room C",2023-12-03,room
+106BK,0,Programming,"Lindie Dawby",ldawby2x@pen.io,"upper floor left wing",5,"speakers and  projector","Room A",2023-11-26,"room and tutor"
+107BK,0,Science,"Reggis Beiderbeck",rbeiderbeck2y@networksolutions.com,"lower floor right wing",3,"speakers and  projector","Room D",2023-06-04,room
+108BK,1,History,"Vaughan Deerness",vdeerness2z@newyorker.com,"lower floor left wing",3,"tv and whiteboard","Room B",2023-10-17,tutor
+109BK,0,Programming,"Erasmus Szubert",eszubert30@nba.com,"upper floor right wing",3,whiteboard,"Room D",2023-10-15,room
+10BK,1,Math,"Dav Goggen",dgoggen9@cmu.edu,"lower floor right wing",4,tv,"Room A",2023-01-12,room
+110BK,1,French,"Sella Witton",switton31@microsoft.com,"upper floor right wing",4,"tv and whiteboard","Room A",2023-09-06,room
+111BK,1,Math,"Mora Wordesworth",mwordesworth32@house.gov,"lower floor left wing",2,tv,"Room B",2023-05-01,tutor
+112BK,0,History,"Fallon Yousef",fyousef33@usa.gov,"upper floor right wing",5,tv,"Room A",2023-02-02,room
+113BK,1,History,"Townie Randles",trandles34@ucoz.com,"lower floor main",10,"tv and whiteboard","Room D",2023-01-17,"room and tutor"
+114BK,1,History,"Terrance Rathke",trathke35@addtoany.com,"upper floor left wing",8,tv,"Room D",2023-07-13,room
+115BK,0,Science,"Hester Whipple",hwhipple36@wix.com,"upper floor right wing",2,whiteboard,"Room C",2023-02-22,"room and tutor"
+116BK,0,Science,"Arley Sabin",asabin37@engadget.com,"upper floor main",7,"tv and whiteboard","Room B",2023-05-18,tutor
+117BK,1,Math,"Anita Hambelton",ahambelton38@wikia.com,"lower floor main",3,tv,"Room B",2023-07-01,room
+118BK,0,Science,"Althea Lardnar",alardnar39@themeforest.net,"lower floor left wing",8,"speakers and  projector","Room C",2023-09-30,"room and tutor"
+119BK,0,Math,"Rosana Queen",rqueen3a@salon.com,"upper floor right wing",2,"speakers and  projector","Room D",2023-01-23,tutor
+11BK,0,Programming,"Kelby Nordass",knordassa@huffingtonpost.com,"lower floor left wing",2,tv,"Room B",2023-07-25,"room and tutor"
+120BK,1,English,"Zach Woodward",zwoodward3b@squarespace.com,"upper floor right wing",2,whiteboard,"Room C",2023-04-29,tutor
+121BK,1,Physics,"Harvey Pendrick",hpendrick3c@google.com.au,"upper floor right wing",5,"speakers and  projector","Room B",2023-12-18,"room and tutor"
+122BK,1,History,"Madge Perview",mperview3d@list-manage.com,"lower floor main",4,"tv and whiteboard","Room C",2023-12-22,tutor
+123BK,1,Math,"Jens Koppen",jkoppen3e@kickstarter.com,"lower floor left wing",5,whiteboard,"Room C",2023-07-26,room
+124BK,0,History,"Garey Nice",gnice3f@opera.com,"upper floor left wing",8,"tv and whiteboard","Room C",2023-04-03,"room and tutor"
+125BK,1,English,"Hildegarde Solway",hsolway3g@latimes.com,"lower floor main",3,"tv and whiteboard","Room A",2023-01-07,room
+126BK,0,English,"Moyra Borris",mborris3h@themeforest.net,"upper floor main",2,tv,"Room A",2023-11-19,room
+127BK,0,English,"Cornelia Isherwood",cisherwood3i@etsy.com,"upper floor main",3,"tv and whiteboard","Room B",2023-10-25,room
+128BK,1,Physics,"Carmine Christoforou",cchristoforou3j@nydailynews.com,"lower floor right wing",10,"tv and whiteboard","Room D",2023-05-11,tutor
+129BK,0,Physics,"Benedetto Scryne",bscryne3k@hexun.com,"upper floor main",8,"tv and whiteboard","Room D",2023-02-24,room
+12BK,0,Science,"Ludovico Gennrich",lgennrichb@google.com.au,"upper floor right wing",3,tv,"Room D",2023-03-08,room
+130BK,0,Science,"Leon Dorricott",ldorricott3l@usa.gov,"lower floor main",8,"speakers and  projector","Room A",2023-05-25,tutor
+131BK,0,Physics,"Lila Gredden",lgredden3m@webmd.com,"upper floor main",10,tv,"Room B",2023-03-02,"room and tutor"
+132BK,1,English,"Shell Oppie",soppie3n@illinois.edu,"lower floor main",6,whiteboard,"Room C",2023-02-19,"room and tutor"
+133BK,1,English,"Francisco Birney",fbirney3o@linkedin.com,"lower floor right wing",4,"tv and whiteboard","Room A",2023-06-03,room
+134BK,0,Programming,"Chrysler Piecha",cpiecha3p@ameblo.jp,"upper floor left wing",3,tv,"Room D",2023-12-13,tutor
+135BK,1,Physics,"Barry Keedwell",bkeedwell3q@google.de,"upper floor left wing",2,whiteboard,"Room B",2023-08-08,"room and tutor"
+136BK,0,Math,"Laryssa Gatfield",lgatfield3r@dailymotion.com,"lower floor left wing",7,whiteboard,"Room A",2023-09-29,room
+137BK,1,Math,"Drucie Inggall",dinggall3s@nasa.gov,"upper floor main",10,tv,"Room B",2023-12-26,"room and tutor"
+138BK,1,French,"Ekaterina Lewson",elewson3t@bigcartel.com,"lower floor left wing",5,whiteboard,"Room A",2023-01-10,room
+139BK,1,Science,"Ester Arnfield",earnfield3u@blog.com,"upper floor left wing",6,tv,"Room B",2023-10-01,"room and tutor"
+13BK,1,Math,"Lilith Kincey",lkinceyc@tripadvisor.com,"lower floor left wing",2,whiteboard,"Room D",2023-02-12,"room and tutor"
+140BK,0,English,"Danyelle Spaughton",dspaughton3v@about.me,"lower floor right wing",4,"speakers and  projector","Room B",2023-06-16,"room and tutor"
+141BK,1,French,"Korie Dictus",kdictus3w@gizmodo.com,"upper floor right wing",7,"tv and whiteboard","Room A",2023-01-03,room
+142BK,0,Physics,"Consalve Kelmere",ckelmere3x@de.vu,"lower floor main",5,whiteboard,"Room C",2023-10-15,room
+143BK,1,Physics,"Ciel Doubleday",cdoubleday3y@multiply.com,"upper floor main",5,"tv and whiteboard","Room D",2023-05-18,tutor
+144BK,1,History,"Caressa Condon",ccondon3z@nba.com,"lower floor left wing",10,tv,"Room C",2023-06-28,tutor
+145BK,1,English,"Judy Bittleson",jbittleson40@youku.com,"upper floor left wing",7,whiteboard,"Room B",2023-07-03,tutor
+146BK,1,Programming,"Tammy Vanner",tvanner41@is.gd,"upper floor left wing",4,"tv and whiteboard","Room C",2023-05-29,room
+147BK,1,Science,"Adrien Dolton",adolton42@opensource.org,"upper floor main",4,whiteboard,"Room B",2023-07-08,"room and tutor"
+148BK,1,Science,"Dionysus Bene",dbene43@google.de,"upper floor right wing",4,"tv and whiteboard","Room C",2023-09-01,tutor
+149BK,1,History,"Ethelind Jacklin",ejacklin44@europa.eu,"upper floor main",2,"speakers and  projector","Room C",2023-04-05,room
+14BK,0,Math,"Claudell Kilbourne",ckilbourned@youku.com,"lower floor left wing",6,"speakers and  projector","Room D",2023-10-05,tutor
+150BK,0,Physics,"Flss Lidbetter",flidbetter45@hexun.com,"lower floor main",8,tv,"Room D",2023-08-07,"room and tutor"
+151BK,0,French,"Nico McCathy",nmccathy46@marriott.com,"upper floor right wing",3,whiteboard,"Room C",2023-06-13,tutor
+152BK,0,French,"Odo Rickeard",orickeard47@wikipedia.org,"upper floor main",6,tv,"Room D",2023-11-19,room
+153BK,0,French,"Hinze Pietz",hpietz48@skype.com,"upper floor left wing",6,"tv and whiteboard","Room D",2023-02-14,tutor
+154BK,1,English,"Jillayne Ozanne",jozanne49@biglobe.ne.jp,"lower floor right wing",5,"speakers and  projector","Room C",2023-08-20,tutor
+155BK,1,English,"Ileana Clapshaw",iclapshaw4a@blogspot.com,"upper floor main",7,whiteboard,"Room D",2023-10-17,"room and tutor"
+156BK,1,History,"Betteanne Roja",broja4b@wikispaces.com,"upper floor left wing",6,tv,"Room B",2023-03-05,room
+157BK,1,Programming,"Kelcie Helian",khelian4c@over-blog.com,"upper floor right wing",5,"speakers and  projector","Room C",2023-01-03,room
+158BK,1,Science,"Jacquetta Caine",jcaine4d@unc.edu,"lower floor main",5,tv,"Room A",2023-12-25,room
+159BK,0,French,"Pascale Ludvigsen",pludvigsen4e@apache.org,"upper floor right wing",3,"tv and whiteboard","Room B",2023-03-25,"room and tutor"
+15BK,1,Programming,"Licha Bowness",lbownesse@wix.com,"upper floor right wing",3,tv,"Room A",2023-03-31,"room and tutor"
+160BK,0,French,"Onida Nibloe",onibloe4f@theglobeandmail.com,"lower floor left wing",10,"tv and whiteboard","Room C",2023-03-22,"room and tutor"
+161BK,0,English,"Lorna Jewes",ljewes4g@dell.com,"lower floor main",5,whiteboard,"Room B",2023-02-15,"room and tutor"
+162BK,1,Physics,"Lacy Challin",lchallin4h@acquirethisname.com,"lower floor main",8,tv,"Room A",2023-06-05,tutor
+163BK,0,French,"Monte Creeber",mcreeber4i@baidu.com,"upper floor left wing",8,"speakers and  projector","Room C",2023-03-15,room
+164BK,0,English,"Karee Gonnelly",kgonnelly4j@army.mil,"upper floor left wing",3,"tv and whiteboard","Room B",2023-08-16,room
+165BK,1,English,"Ferrell Romayne",fromayne4k@ucoz.ru,"upper floor main",5,whiteboard,"Room A",2023-07-29,"room and tutor"
+166BK,1,Physics,"Aube Dafter",adafter4l@yellowpages.com,"lower floor left wing",2,whiteboard,"Room A",2023-12-17,room
+167BK,0,Programming,"Nichole Tretwell",ntretwell4m@hud.gov,"upper floor right wing",8,tv,"Room A",2023-09-13,room
+168BK,1,History,"Tressa Church",tchurch4n@samsung.com,"upper floor right wing",8,"tv and whiteboard","Room A",2023-03-26,tutor
+169BK,0,English,"Rodolph Ickovits",rickovits4o@github.com,"lower floor left wing",5,tv,"Room C",2023-03-01,room
+16BK,0,French,"Brandie Ordemann",bordemannf@cbslocal.com,"lower floor main",7,tv,"Room D",2023-09-19,tutor
+170BK,1,Math,"Nicoline Borrell",nborrell4p@msn.com,"lower floor right wing",6,"speakers and  projector","Room A",2023-04-27,tutor
+171BK,0,Programming,"Evangeline Limbrick",elimbrick4q@stanford.edu,"lower floor right wing",8,whiteboard,"Room B",2023-09-09,"room and tutor"
+172BK,1,History,"Weston Kirstein",wkirstein4r@quantcast.com,"upper floor left wing",8,"speakers and  projector","Room D",2023-02-24,room
+173BK,0,Programming,"Lonna Wewell",lwewell4s@yelp.com,"upper floor right wing",8,whiteboard,"Room D",2023-01-08,room
+174BK,1,Math,"Ebenezer Gummoe",egummoe4t@nsw.gov.au,"upper floor main",7,"tv and whiteboard","Room B",2023-12-13,room
+175BK,1,Programming,"Elaine Bisson",ebisson4u@printfriendly.com,"lower floor right wing",5,tv,"Room C",2023-10-05,"room and tutor"
+176BK,0,Science,"Beatrisa Chippin",bchippin4v@businesswire.com,"lower floor left wing",2,tv,"Room A",2023-01-28,"room and tutor"
+177BK,1,Science,"Fran Graalman",fgraalman4w@blog.com,"upper floor right wing",4,tv,"Room C",2023-11-14,tutor
+178BK,0,Programming,"Thorstein Astill",tastill4x@intel.com,"lower floor left wing",5,tv,"Room C",2023-01-03,"room and tutor"
+179BK,0,History,"Hollie Moreno",hmoreno4y@nps.gov,"upper floor left wing",8,whiteboard,"Room D",2023-01-18,"room and tutor"
+17BK,1,English,"Krisha Van den Oord",kvang@dailymotion.com,"lower floor right wing",6,"speakers and  projector","Room B",2023-01-27,tutor
+180BK,0,History,"Esteban Ianilli",eianilli4z@yelp.com,"lower floor right wing",5,"tv and whiteboard","Room C",2023-02-05,"room and tutor"
+181BK,0,Physics,"Lynea Sydes",lsydes50@bizjournals.com,"upper floor left wing",2,whiteboard,"Room C",2023-03-09,tutor
+182BK,1,English,"Lorne Arendsen",larendsen51@google.com.hk,"lower floor left wing",6,tv,"Room D",2023-12-01,room
+183BK,0,Math,"Rafi Archbald",rarchbald52@squidoo.com,"lower floor main",3,"tv and whiteboard","Room A",2023-08-20,room
+184BK,1,Math,"Peter Chilvers",pchilvers53@friendfeed.com,"lower floor left wing",2,"tv and whiteboard","Room C",2023-02-08,tutor
+185BK,1,Physics,"Jerrold Ivanuschka",jivanuschka54@elegantthemes.com,"lower floor main",7,whiteboard,"Room D",2023-03-26,tutor
+186BK,1,Programming,"Enid Manicom",emanicom55@ehow.com,"upper floor right wing",7,whiteboard,"Room D",2023-06-11,"room and tutor"
+187BK,0,French,"Tracy Nixon",tnixon56@wikipedia.org,"lower floor right wing",2,"speakers and  projector","Room D",2023-04-16,"room and tutor"
+188BK,1,Physics,"Cobbie Hynde",chynde57@mail.ru,"lower floor left wing",6,whiteboard,"Room B",2023-08-19,"room and tutor"
+189BK,1,Programming,"Sharron Windham",swindham58@bbc.co.uk,"lower floor left wing",5,tv,"Room A",2023-11-18,"room and tutor"
+18BK,0,Science,"Jeremie Whimp",jwhimph@dailymotion.com,"upper floor main",5,whiteboard,"Room B",2023-04-03,room
+190BK,1,History,"Ariel Derycot",aderycot59@t-online.de,"upper floor main",2,"tv and whiteboard","Room B",2023-04-21,"room and tutor"
+191BK,1,Science,"Erastus McCudden",emccudden5a@nih.gov,"lower floor main",7,"speakers and  projector","Room A",2023-09-12,tutor
+192BK,1,French,"Mohandas Gwynn",mgwynn5b@xinhuanet.com,"upper floor main",10,tv,"Room B",2023-02-04,room
+193BK,0,Math,"Ag Sammes",asammes5c@columbia.edu,"upper floor main",8,tv,"Room D",2023-05-01,"room and tutor"
+194BK,1,Math,"Doy Bellinger",dbellinger5d@npr.org,"lower floor right wing",2,tv,"Room A",2023-07-14,"room and tutor"
+195BK,0,Math,"Kore Cosser",kcosser5e@purevolume.com,"upper floor main",3,tv,"Room B",2023-11-17,"room and tutor"
+196BK,1,History,"Inglis Zannetti",izannetti5f@digg.com,"lower floor main",7,"tv and whiteboard","Room C",2023-10-11,room
+197BK,0,Programming,"Philippe Uman",puman5g@comcast.net,"upper floor main",4,"speakers and  projector","Room B",2023-05-03,room
+198BK,0,Math,"Laina Thorsby",lthorsby5h@livejournal.com,"upper floor left wing",5,"tv and whiteboard","Room A",2023-04-13,tutor
+199BK,0,Physics,"Morgen Arminger",marminger5i@angelfire.com,"lower floor left wing",10,"speakers and  projector","Room C",2023-07-26,tutor
+19BK,0,Physics,"Drona Boskell",dboskelli@alibaba.com,"upper floor main",3,"speakers and  projector","Room B",2023-08-30,room
+1BK,1,French,"Ignaz Wolters",iwolters0@unc.edu,"lower floor right wing",6,"tv and whiteboard","Room D",2023-05-12,tutor
+200BK,0,Science,"Retha Carabine",rcarabine5j@stanford.edu,"upper floor left wing",8,"tv and whiteboard","Room C",2023-08-30,room
+20BK,1,Programming,"Bendite Northam",bnorthamj@sciencedaily.com,"upper floor main",4,"speakers and  projector","Room A",2023-11-05,tutor
+21BK,1,Physics,"Ulrikaumeko Darwin",udarwink@free.fr,"upper floor main",2,tv,"Room A",2023-04-04,"room and tutor"
+22BK,1,Science,"Orbadiah Grigoliis",ogrigoliisl@slideshare.net,"lower floor left wing",6,"speakers and  projector","Room A",2023-10-08,"room and tutor"
+23BK,1,History,"Noel McClurg",nmcclurgm@berkeley.edu,"upper floor right wing",8,"tv and whiteboard","Room A",2023-12-13,tutor
+24BK,1,History,"Ferdinande Lording",flordingn@harvard.edu,"lower floor right wing",10,"tv and whiteboard","Room A",2023-05-28,tutor
+25BK,0,History,"Margalo Beggini",mbegginio@de.vu,"lower floor left wing",10,whiteboard,"Room D",2023-11-10,"room and tutor"
+26BK,1,French,"Ulises Moizer",umoizerp@nymag.com,"lower floor right wing",5,tv,"Room A",2023-07-15,"room and tutor"
+27BK,1,History,"Timi Boocock",tboocockq@skype.com,"lower floor main",8,"tv and whiteboard","Room B",2023-06-01,room
+28BK,0,Math,"Lotti Derobert",lderobertr@google.co.jp,"lower floor main",6,"tv and whiteboard","Room C",2023-08-02,room
+29BK,1,Physics,"Kyle Brigge",kbrigges@wsj.com,"lower floor main",7,whiteboard,"Room D",2023-06-24,room
+2BK,0,History,"Konrad Itschakov",kitschakov1@house.gov,"lower floor main",4,"speakers and  projector","Room A",2023-07-21,tutor
+30BK,0,Science,"Tully Cersey",tcerseyt@furl.net,"upper floor right wing",5,tv,"Room A",2023-12-25,room
+31BK,0,Science,"Alexine Bernardotti",abernardottiu@webs.com,"lower floor right wing",5,whiteboard,"Room B",2023-08-16,room
+32BK,1,Math,"Had Aspland",hasplandv@noaa.gov,"upper floor left wing",4,"speakers and  projector","Room B",2023-05-19,room
+33BK,1,Math,"Merci Purslow",mpursloww@examiner.com,"upper floor left wing",5,"speakers and  projector","Room B",2023-09-04,room
+34BK,0,French,"Patty Rosenfarb",prosenfarbx@mapy.cz,"upper floor left wing",6,whiteboard,"Room D",2023-06-20,room
+35BK,1,Programming,"Culley Dumphreys",cdumphreysy@instagram.com,"upper floor right wing",7,whiteboard,"Room B",2023-03-22,room
+36BK,1,French,"Nowell Gosz",ngoszz@scribd.com,"lower floor right wing",7,tv,"Room C",2023-11-13,room
+37BK,0,History,"Josee Tother",jtother10@illinois.edu,"lower floor right wing",2,"tv and whiteboard","Room A",2023-06-16,"room and tutor"
+38BK,0,Science,"Richardo Chattey",rchattey11@yolasite.com,"upper floor left wing",7,whiteboard,"Room C",2023-04-02,"room and tutor"
+39BK,1,Science,"Glynnis Norheny",gnorheny12@istockphoto.com,"upper floor right wing",4,"tv and whiteboard","Room D",2023-07-06,room
+3BK,1,Math,"Eimile Rendle",erendle2@amazon.com,"upper floor main",5,tv,"Room B",2023-11-20,"room and tutor"
+40BK,1,Math,"Elwood Pawle",epawle13@sbwire.com,"upper floor main",7,"tv and whiteboard","Room A",2023-01-18,room
+41BK,0,Math,"Francisco Briiginshaw",fbriiginshaw14@webeden.co.uk,"upper floor right wing",5,whiteboard,"Room D",2023-05-03,tutor
+42BK,1,English,"Anestassia Schermick",aschermick15@com.com,"upper floor main",3,"tv and whiteboard","Room D",2023-09-08,room
+43BK,1,History,"Bonnibelle Fitzsimons",bfitzsimons16@amazon.co.jp,"upper floor right wing",5,whiteboard,"Room A",2023-10-26,"room and tutor"
+44BK,1,Math,"Wynn Gravy",wgravy17@microsoft.com,"lower floor left wing",5,tv,"Room C",2023-05-23,room
+45BK,1,English,"Coleman Mocker",cmocker18@xinhuanet.com,"upper floor left wing",4,whiteboard,"Room A",2023-09-03,tutor
+46BK,0,Science,"Wait Scampion",wscampion19@fastcompany.com,"upper floor right wing",4,"tv and whiteboard","Room A",2023-09-03,room
+47BK,1,Science,"Belicia Peach",bpeach1a@printfriendly.com,"upper floor right wing",5,"tv and whiteboard","Room C",2023-10-28,tutor
+48BK,1,Math,"Maye Luce",mluce1b@engadget.com,"upper floor main",5,whiteboard,"Room A",2023-12-11,room
+49BK,0,Physics,"Zuzana Whyler",zwhyler1c@un.org,"upper floor left wing",6,tv,"Room A",2023-01-31,"room and tutor"
+4BK,0,Math,"Raphael De Giovanni",rde3@army.mil,"upper floor main",4,"speakers and  projector","Room A",2023-09-16,room
+50BK,0,Science,"Muffin Rist",mrist1d@pcworld.com,"lower floor right wing",4,"tv and whiteboard","Room A",2023-02-15,room
+51BK,0,Physics,"Ian Claughton",iclaughton1e@army.mil,"lower floor main",10,"tv and whiteboard","Room D",2023-11-10,tutor
+52BK,0,Physics,"Alysia Bonnick",abonnick1f@qq.com,"upper floor right wing",4,whiteboard,"Room B",2023-01-01,room
+53BK,0,Math,"Auria Bonicelli",abonicelli1g@prweb.com,"lower floor left wing",6,"tv and whiteboard","Room D",2023-04-11,room
+54BK,0,History,"Johanna Kryska",jkryska1h@hostgator.com,"lower floor main",7,"speakers and  projector","Room A",2023-01-30,room
+55BK,0,Programming,"Gordie Hubberstey",ghubberstey1i@hatena.ne.jp,"upper floor left wing",5,"tv and whiteboard","Room C",2023-08-13,tutor
+56BK,1,History,"Shelton Jerams",sjerams1j@mozilla.org,"lower floor right wing",10,tv,"Room B",2023-09-27,room
+57BK,1,Math,"Tommi Simoneau",tsimoneau1k@apple.com,"lower floor right wing",5,"tv and whiteboard","Room B",2023-05-20,room
+58BK,1,English,"Konstance Innman",kinnman1l@lulu.com,"lower floor left wing",7,"tv and whiteboard","Room C",2023-05-07,"room and tutor"
+59BK,0,French,"Parnell Woofenden",pwoofenden1m@bigcartel.com,"upper floor left wing",6,"speakers and  projector","Room B",2023-09-01,"room and tutor"
+5BK,1,Science,"Berget Gipson",bgipson4@vk.com,"lower floor left wing",10,whiteboard,"Room B",2023-07-21,"room and tutor"
+60BK,1,English,"Hilary Weitzel",hweitzel1n@tamu.edu,"upper floor main",4,"tv and whiteboard","Room D",2023-11-28,"room and tutor"
+61BK,0,English,"Sharon Rummings",srummings1o@barnesandnoble.com,"upper floor right wing",7,"tv and whiteboard","Room C",2023-08-04,room
+62BK,0,Science,"Robyn Leipelt",rleipelt1p@jimdo.com,"upper floor right wing",4,"tv and whiteboard","Room B",2023-11-13,"room and tutor"
+63BK,0,Programming,"Smith Towers",stowers1q@usnews.com,"upper floor main",5,tv,"Room D",2023-03-06,tutor
+64BK,0,Science,"Heindrick Pink",hpink1r@ustream.tv,"upper floor right wing",2,"speakers and  projector","Room D",2023-07-21,room
+65BK,1,Physics,"Tamas Aprahamian",taprahamian1s@addtoany.com,"upper floor left wing",10,tv,"Room C",2023-09-10,room
+66BK,0,Science,"Garrek Gilliver",ggilliver1t@networksolutions.com,"lower floor left wing",6,"speakers and  projector","Room A",2023-06-28,room
+67BK,0,Math,"Lorna Barnett",lbarnett1u@netscape.com,"upper floor right wing",7,whiteboard,"Room B",2023-04-20,tutor
+68BK,0,English,"Donnell Laden",dladen1v@youtube.com,"lower floor main",7,"tv and whiteboard","Room C",2023-07-13,tutor
+69BK,1,Physics,"Genovera Lewzey",glewzey1w@amazon.de,"lower floor left wing",8,"tv and whiteboard","Room B",2023-02-11,"room and tutor"
+6BK,0,Physics,"Gilbert Martinello",gmartinello5@pinterest.com,"upper floor right wing",2,"speakers and  projector","Room B",2023-12-24,room
+70BK,1,Math,"Stephannie Okey",sokey1x@bbb.org,"upper floor right wing",5,"tv and whiteboard","Room C",2023-09-19,room
+71BK,0,Science,"Vincents Fearn",vfearn1y@liveinternet.ru,"lower floor right wing",7,tv,"Room A",2023-02-11,room
+72BK,1,English,"Val Bolino",vbolino1z@epa.gov,"lower floor main",7,tv,"Room D",2023-08-29,tutor
+73BK,0,History,"Lucho Sexstone",lsexstone20@answers.com,"lower floor right wing",7,tv,"Room C",2023-01-26,"room and tutor"
+74BK,0,Science,"Godfry Biever",gbiever21@webeden.co.uk,"upper floor left wing",2,"speakers and  projector","Room D",2023-04-22,"room and tutor"
+75BK,1,Math,"Selle Tisor",stisor22@fotki.com,"upper floor main",3,"speakers and  projector","Room A",2023-05-03,"room and tutor"
+76BK,1,History,"Ardyth Callis",acallis23@github.com,"lower floor right wing",6,"speakers and  projector","Room B",2023-11-01,tutor
+77BK,0,Programming,"Aurel Bryant",abryant24@wordpress.com,"lower floor main",5,whiteboard,"Room C",2023-05-21,room
+78BK,1,French,"Brenn Fairpo",bfairpo25@theglobeandmail.com,"upper floor main",5,whiteboard,"Room B",2023-05-09,tutor
+79BK,1,Programming,"Elias McRinn",emcrinn26@mit.edu,"lower floor right wing",5,"tv and whiteboard","Room A",2023-04-03,"room and tutor"
+7BK,0,Physics,"Godard Janovsky",gjanovsky6@dmoz.org,"lower floor main",10,whiteboard,"Room A",2023-03-19,tutor
+80BK,1,French,"Blayne Cumbridge",bcumbridge27@purevolume.com,"lower floor main",8,"speakers and  projector","Room C",2023-06-18,"room and tutor"
+81BK,1,Physics,"Riane Darlaston",rdarlaston28@loc.gov,"upper floor main",4,"speakers and  projector","Room D",2023-07-11,"room and tutor"
+82BK,1,English,"Lincoln Tembridge",ltembridge29@youku.com,"lower floor main",5,whiteboard,"Room D",2023-04-29,room
+83BK,1,Programming,"Helenka Sulman",hsulman2a@google.cn,"lower floor left wing",8,"tv and whiteboard","Room B",2023-11-21,tutor
+84BK,1,Math,"Bernard Showl",bshowl2b@nymag.com,"upper floor right wing",3,"tv and whiteboard","Room C",2023-04-21,room
+85BK,1,Science,"Nevins Bantham",nbantham2c@eepurl.com,"upper floor left wing",10,tv,"Room B",2023-11-25,"room and tutor"
+86BK,0,Programming,"Bebe Sollars",bsollars2d@disqus.com,"lower floor left wing",4,whiteboard,"Room B",2023-12-09,room
+87BK,0,Math,"Carree Sherlaw",csherlaw2e@redcross.org,"upper floor left wing",5,"tv and whiteboard","Room B",2023-08-09,room
+88BK,1,English,"Dora Punyer",dpunyer2f@digg.com,"lower floor right wing",8,whiteboard,"Room B",2023-01-14,"room and tutor"
+89BK,0,Physics,"Asa Creak",acreak2g@unc.edu,"lower floor right wing",2,tv,"Room D",2023-09-02,tutor
+8BK,0,Physics,"Jess Brookfield",jbrookfield7@ucoz.ru,"lower floor main",4,tv,"Room A",2023-11-06,room
+90BK,1,Science,"Eugenio Dunk",edunk2h@tinypic.com,"lower floor main",10,tv,"Room A",2023-10-14,room
+91BK,1,English,"Lynett Rittmeier",lrittmeier2i@unblog.fr,"lower floor left wing",10,tv,"Room A",2023-04-17,tutor
+92BK,1,Science,"Yvor Cunio",ycunio2j@hhs.gov,"upper floor left wing",3,whiteboard,"Room C",2023-12-10,tutor
+93BK,1,History,"Quintin Normavell",qnormavell2k@google.ru,"upper floor left wing",5,tv,"Room A",2023-06-09,"room and tutor"
+94BK,0,Math,"Daffie Thredder",dthredder2l@bloomberg.com,"upper floor right wing",6,tv,"Room C",2023-04-21,room
+95BK,1,French,"Efren Sibbson",esibbson2m@ucsd.edu,"lower floor right wing",8,"speakers and  projector","Room C",2023-01-25,tutor
+96BK,1,French,"Luella Moan",lmoan2n@delicious.com,"lower floor main",2,tv,"Room D",2023-06-12,tutor
+97BK,0,History,"Erica West-Frimley",ewestfrimley2o@wikia.com,"lower floor right wing",5,whiteboard,"Room A",2023-05-19,"room and tutor"
+98BK,1,Physics,"Estell Crombie",ecrombie2p@icq.com,"upper floor main",6,"tv and whiteboard","Room D",2023-10-21,tutor
+99BK,1,Science,"Ardys Raylton",araylton2q@washington.edu,"lower floor right wing",6,whiteboard,"Room C",2023-06-29,"room and tutor"
+9BK,0,Programming,"Ogdan MacNeish",omacneish8@free.fr,"upper floor main",8,"speakers and  projector","Room C",2023-10-08,"room and tutor"
